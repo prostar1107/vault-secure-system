@@ -2,3 +2,4 @@
 // Fix compatibility issues with MetaMask
 // Fix issues in token transfer logic
 // Refactor smart contract testing framework
+// Refactor ERC-721 transfer logic
