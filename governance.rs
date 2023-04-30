@@ -3,3 +3,4 @@
 // Add non-fungible token (NFT) support
 // Implement contract function batching
 // Refactor governance token logic
+// Improve contract interaction via APIs
