@@ -2,3 +2,4 @@
 // Fix transaction replay issue
 // Fix issue with multi-chain transactions
 // Upgrade to latest Solidity version
+// Integrate IPFS for storage
