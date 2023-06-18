@@ -1,2 +1,3 @@
 // Add support for multi-signature wallet contracts
 // Integrate chain-agnostic oracles
+// Fix vulnerability in decentralized finance protocols
