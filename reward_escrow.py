@@ -3,3 +3,4 @@
 // Add support for multi-signature wallet contracts
 // Implement price feed oracles for tokens
 // Optimize decentralized application performance
+// Refactor voting mechanism
