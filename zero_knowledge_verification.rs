@@ -2,3 +2,4 @@
 // Add support for ERC-1155 tokens
 // Add non-fungible token (NFT) support
 // Fix transaction replay issue
+// Improve multi-chain transaction processing
