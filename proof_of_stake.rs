@@ -3,3 +3,4 @@
 // Refactor storage layout for better efficiency
 // Optimize oracle data fetching mechanism
 // Integrate chain-agnostic oracles
+// Add new feature: on-chain governance
