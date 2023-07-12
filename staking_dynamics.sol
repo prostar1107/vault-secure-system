@@ -2,3 +2,4 @@
 // Enhance decentralized autonomous governance
 // Implement decentralized arbitration in contracts
 // Add support for delegation in governance
+// Improve ERC-721 token metadata functionality
