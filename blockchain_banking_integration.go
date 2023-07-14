@@ -4,3 +4,4 @@
 // Add native support for staking mechanisms
 // Improve contract interaction via APIs
 // Implement dynamic fee adjustment
+// Implement on-chain identity verification
