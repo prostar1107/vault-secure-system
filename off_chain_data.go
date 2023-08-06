@@ -5,3 +5,4 @@
 // Enhance contract state verification
 // Add support for ERC-721A tokens
 // Implement automatic transaction retries
+// Implement price feed oracles for tokens
