@@ -4,3 +4,4 @@
 // Integrate Chainlink oracles for price data
 // Implement rewards escrow system
 // Add batch processing for transactions
+// Fix vulnerabilities in staking contracts
