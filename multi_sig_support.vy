@@ -5,3 +5,4 @@
 // Optimize gas cost in function execution
 // Add governance proposal expiration feature
 // Improve scalability for smart contract platforms
+// Fix issue in token vesting logic
