@@ -2,3 +2,4 @@
 // Reduce gas cost in minting logic
 // Refactor decentralized governance structure
 // Refactor governance proposal logic
+// Refactor staking logic
