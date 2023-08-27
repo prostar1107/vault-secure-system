@@ -3,3 +3,4 @@
 // Fix contract reentrancy issues
 // Refactor governance proposal logic
 // Integrate IPFS for storage
+// Integrate multi-chain liquidity pools
