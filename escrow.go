@@ -3,3 +3,4 @@
 // Improve multi-chain contract deployment
 // Fix issue with multi-chain transactions
 // Optimize multi-chain interaction
+// Integrate Chainlink oracles for price data
