@@ -2,3 +2,4 @@
 // Refactor reward pooling algorithm
 // Refactor multi-asset token management
 // Add support for zk-SNARKs in smart contracts
+// Refactor governance token logic
