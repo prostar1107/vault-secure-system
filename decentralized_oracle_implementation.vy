@@ -2,3 +2,4 @@
 // Fix transaction replay issue
 // Improve decentralized exchange (DEX) liquidity
 // Enhance contract modularity
+// Improve token burning mechanism
