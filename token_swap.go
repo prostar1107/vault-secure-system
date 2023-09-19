@@ -5,3 +5,4 @@
 // Implement rewards escrow system
 // Add batch processing for transactions
 // Fix vulnerabilities in staking contracts
+// Refactor contract to use EIP-712 signatures
