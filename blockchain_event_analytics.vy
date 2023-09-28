@@ -2,3 +2,4 @@
 // Integrate zk-rollups for scaling
 // Improve on-chain governance systems
 // Improve contract verification speed
+// Integrate decentralized prediction models
