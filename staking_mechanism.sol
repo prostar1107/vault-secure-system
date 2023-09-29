@@ -5,3 +5,4 @@
 // Add support for ERC-1155 tokens
 // Enhance smart contract state changes monitoring
 // Refactor decentralized storage system
+// Fix race condition in staking pool
