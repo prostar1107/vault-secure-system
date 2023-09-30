@@ -2,3 +2,4 @@
 // Improve contract auditing tools
 // Improve multi-chain contract deployment
 // Implement emergency stop mechanism
+// Integrate IPFS for storage
