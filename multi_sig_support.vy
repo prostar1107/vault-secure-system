@@ -6,3 +6,4 @@
 // Add governance proposal expiration feature
 // Improve scalability for smart contract platforms
 // Fix issue in token vesting logic
+// Fix errors in NFT minting logic
