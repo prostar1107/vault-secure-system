@@ -3,3 +3,4 @@
 // Add support for batch transaction processing
 // Refactor staking logic
 // Fix memory leak in Rust smart contract
+// Add support for multiple consensus mechanisms
