@@ -6,3 +6,4 @@
 // Add support for ERC-721A tokens
 // Implement automatic transaction retries
 // Implement price feed oracles for tokens
+// Fix governance proposal approval logic
