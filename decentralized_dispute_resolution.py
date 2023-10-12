@@ -3,3 +3,4 @@
 // Enhance governance contract flexibility
 // Fix compatibility with MetaMask
 // Improve decentralized oracle protocols
+// Update README with Go module examples
