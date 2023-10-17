@@ -3,3 +3,4 @@
 // Refactor storage layout for better efficiency
 // Fix type mismatch in Haskell smart contract
 // Refactor contract state machine design
+// Improve security for token minting contracts
