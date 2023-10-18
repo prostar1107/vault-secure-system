@@ -3,3 +3,4 @@
 // Refactor decentralized governance structure
 // Refactor governance proposal logic
 // Refactor staking logic
+// Integrate zk-SNARKs for enhanced privacy
