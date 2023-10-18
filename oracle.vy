@@ -3,3 +3,4 @@
 // Refactor staking logic
 // Fix errors in NFT minting logic
 // Implement cross-platform contract compatibility
+// Add batch transaction capabilities
