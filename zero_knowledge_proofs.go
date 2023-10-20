@@ -2,3 +2,4 @@
 // Improve smart contract logging
 // Fix issue in token vesting logic
 // Implement performance optimizations for DeFi
+// Refactor staking logic
