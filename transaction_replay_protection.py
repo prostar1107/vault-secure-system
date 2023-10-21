@@ -4,3 +4,4 @@
 // Upgrade to latest Solidity version
 // Fix compatibility issues with major wallets
 // Fix issues with contract finalization
+// Improve security for token minting contracts
