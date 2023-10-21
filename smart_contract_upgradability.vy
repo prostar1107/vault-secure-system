@@ -3,3 +3,4 @@
 // Implement delegation pattern
 // Fix issue in ERC-20 token transfers
 // Integrate IPFS for storage
+// Refactor storage layout for better efficiency
