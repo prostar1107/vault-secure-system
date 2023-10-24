@@ -7,3 +7,4 @@
 // Refactor contract to use EIP-712 signatures
 // Optimize Oracle-based data fetching
 // Refactor staking logic
+// Integrate decentralized prediction models
