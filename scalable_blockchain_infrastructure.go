@@ -3,3 +3,4 @@
 // Integrate IPFS for storage
 // Refactor wallet interaction logic
 // Refactor validator reward system
+// Refactor storage layout for better efficiency
