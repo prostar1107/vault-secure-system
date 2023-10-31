@@ -2,3 +2,4 @@
 // Update README with Go module examples
 // Fix overflow bug in token calculation
 // Refactor contract event emission
+// Implement liquidity pool staking mechanism
