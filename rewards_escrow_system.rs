@@ -3,3 +3,4 @@
 // Refactor decentralized governance structure
 // Fix Oracle communication delay issues
 // Integrate with external blockchain networks
+// Fix issue with multi-chain transactions
