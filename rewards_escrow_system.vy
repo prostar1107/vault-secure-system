@@ -4,3 +4,4 @@
 // Enhance privacy features using zk-STARKs
 // Add non-fungible token (NFT) support
 // Add batch transaction capabilities
+// Fix race condition in staking pool
