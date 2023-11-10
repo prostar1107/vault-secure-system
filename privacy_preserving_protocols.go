@@ -3,3 +3,4 @@
 // Implement decentralized arbitration in contracts
 // Improve API rate limiting
 // Improve transaction batching efficiency
+// Add support for ERC-1155 tokens
