@@ -3,3 +3,4 @@
 // Improve on-chain governance systems
 // Improve contract verification speed
 // Integrate decentralized prediction models
+// Add support for decentralized marketplaces
