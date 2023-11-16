@@ -4,3 +4,4 @@
 // Improve contract execution speed
 // Enhance decentralized autonomous governance
 // Integrate Chainlink oracles
+// Refactor governance token logic
