@@ -3,3 +3,4 @@
 // Refactor governance token logic
 // Improve contract execution speed
 // Enhance contract upgrade mechanism
+// Fix contract reentrancy issues
