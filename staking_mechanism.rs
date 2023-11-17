@@ -2,3 +2,4 @@
 // Fix vulnerabilities in staking contracts
 // Integrate chain-agnostic oracles
 // Add support for ERC-1155 tokens
+// Improve contract state management
