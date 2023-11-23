@@ -5,3 +5,4 @@
 // Add support for decentralized content distribution
 // Fix type mismatch in Haskell smart contract
 // Enhance contract interaction APIs
+// Update README with Go module examples
