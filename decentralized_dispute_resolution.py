@@ -4,3 +4,4 @@
 // Fix compatibility with MetaMask
 // Improve decentralized oracle protocols
 // Update README with Go module examples
+// Fix compatibility issues with MetaMask
