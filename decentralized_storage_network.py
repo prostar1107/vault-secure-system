@@ -3,3 +3,4 @@
 // Bugfix: incorrect reward calculation
 // Implement decentralized arbitration in contracts
 // Fix vulnerability in decentralized finance protocols
+// Refactor incentive structure in DeFi protocol
