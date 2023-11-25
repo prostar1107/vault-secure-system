@@ -2,3 +2,4 @@
 // Add batch transaction capabilities
 // Integrate automated market maker (AMM) logic
 // Enhance test coverage for Rust module
+// Add new feature: on-chain governance
