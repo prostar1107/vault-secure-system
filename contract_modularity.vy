@@ -2,3 +2,4 @@
 // Enhance decentralized finance (DeFi) ecosystem
 // Refactor governance token logic
 // Implement liquidity pool staking mechanism
+// Fix compatibility with MetaMask
