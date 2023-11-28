@@ -2,3 +2,4 @@
 // Implement liquidity pool staking mechanism
 // Fix race condition in staking pool
 // Fix compatibility issues with major wallets
+// Improve decentralized lending contract flexibility
