@@ -8,3 +8,4 @@
 // Optimize Oracle-based data fetching
 // Refactor staking logic
 // Integrate decentralized prediction models
+// Implement cross-chain bridge
