@@ -4,3 +4,4 @@
 // Refactor staking logic
 // Fix memory leak in Rust smart contract
 // Add support for multiple consensus mechanisms
+// Add support for decentralized file storage
