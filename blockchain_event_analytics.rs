@@ -3,3 +3,4 @@
 // Add automated contract testing tools
 // Improve contract auditing tools
 // Fix issues in multi-token smart contracts
+// Add support for delegation in governance
