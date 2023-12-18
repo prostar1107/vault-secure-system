@@ -2,3 +2,4 @@
 // Refactor token economics model
 // Add support for multi-signature wallet contracts
 // Implement liquidity pool staking mechanism
+// Bugfix: incorrect reward calculation
