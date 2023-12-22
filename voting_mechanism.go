@@ -8,3 +8,4 @@
 // Implement price feed oracles for tokens
 // Fix wallet interaction issues in DeFi protocols
 // Improve API rate limiting
+// Add support for NFT marketplaces
