@@ -4,3 +4,4 @@
 // Integrate with decentralized identity providers
 // Fix issues with contract state management
 // Add unit tests for staking module
+// Update dependencies for Vyper contract
