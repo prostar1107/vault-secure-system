@@ -3,3 +3,4 @@
 // Fix bug in random number generation
 // Implement liquidity pool staking mechanism
 // Implement on-chain fee adjustment mechanisms
+// Implement on-chain identity verification
