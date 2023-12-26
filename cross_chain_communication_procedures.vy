@@ -4,3 +4,4 @@
 // Improve contract verification speed
 // Improve contract state management
 // Refactor multi-signature wallet code
+// Improve token burning mechanism
