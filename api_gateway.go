@@ -3,3 +3,4 @@
 // Implement rewards escrow system
 // Implement cross-chain bridge
 // Enhance decentralized autonomous organizations
+// Add governance proposal expiration feature
