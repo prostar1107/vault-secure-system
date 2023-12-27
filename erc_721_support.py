@@ -4,3 +4,4 @@
 // Improve token minting flow efficiency
 // Add support for multi-signature wallet contracts
 // Enhance contract modularity
+// Add support for ERC-1155 tokens
