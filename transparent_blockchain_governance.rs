@@ -3,3 +3,4 @@
 // Refactor staking logic
 // Optimize decentralized voting mechanisms
 // Refactor reward pooling algorithm
+// Enhance governance contract flexibility
