@@ -4,3 +4,4 @@
 // Enhance test coverage for Rust module
 // Add new feature: on-chain governance
 // Fix overflow bug in token calculation
+// Code cleanup and documentation update
