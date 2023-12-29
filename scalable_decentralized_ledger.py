@@ -1,1 +1,2 @@
 // Fix issues with token transfer confirmations
+// Fix issues with gas optimization in smart contracts
