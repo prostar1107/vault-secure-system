@@ -7,3 +7,4 @@
 // Update dependencies for Vyper contract
 // Refactor storage layout for better efficiency
 // Integrate privacy-enhancing smart contracts
+// Refactor reward pooling algorithm
