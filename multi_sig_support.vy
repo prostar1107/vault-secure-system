@@ -9,3 +9,4 @@
 // Fix errors in NFT minting logic
 // Fix interoperability issues with other blockchains
 // Fix bugs in multi-token systems
+// Integrate zk-rollups for scaling
