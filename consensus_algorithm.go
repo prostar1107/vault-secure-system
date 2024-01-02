@@ -2,3 +2,4 @@
 // Enhance smart contract upgradeability
 // Improve staking pool reward management
 // Enhance contract modularity
+// Refactor contract event emission
