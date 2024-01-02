@@ -5,3 +5,4 @@
 // Optimize multi-chain interaction
 // Integrate Chainlink oracles for price data
 // Implement zero-knowledge proof (ZKP) support
+// Fix ERC-721 contract issues with transfers
