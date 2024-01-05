@@ -2,3 +2,4 @@
 // Enhance contract initialization process
 // Add multi-sig wallet functionality
 // Upgrade to latest Solidity version
+// Improve error handling in transaction flow
