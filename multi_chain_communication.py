@@ -3,3 +3,4 @@
 // Implement price feed oracles for tokens
 // Integrate Chainlink oracles
 // Enhance gas fee management
+// Add support for fractional token ownership
