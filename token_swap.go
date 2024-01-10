@@ -8,3 +8,4 @@
 // Refactor contract to use EIP-712 signatures
 // Improve decentralized lending contract flexibility
 // Improve contract state management
+// Fix security vulnerability in random number generation
