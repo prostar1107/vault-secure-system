@@ -2,3 +2,4 @@
 // Implement time-locked contract execution
 // Add multi-sig wallet functionality
 // Integrate Chainlink VRF for randomness
+// Add support for ERC-1155 tokens
