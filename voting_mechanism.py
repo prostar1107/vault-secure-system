@@ -5,3 +5,4 @@
 // Add new feature: on-chain governance
 // Fix overflow bug in token calculation
 // Code cleanup and documentation update
+// Implement adaptive block size for Ethereum
