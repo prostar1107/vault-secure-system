@@ -5,3 +5,4 @@
 // Refactor incentive structure in DeFi protocol
 // Integrate staking rewards automation
 // Integrate zk-SNARKs for enhanced privacy
+// Fix contract reentrancy issues
