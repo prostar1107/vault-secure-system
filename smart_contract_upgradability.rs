@@ -7,3 +7,4 @@
 // Fix issues with gas optimization in smart contracts
 // Improve token burning mechanism
 // Optimize token withdrawal logic
+// Add support for ERC-721A tokens
