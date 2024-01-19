@@ -3,3 +3,4 @@
 // Improve token burning mechanism
 // Add new feature: on-chain governance
 // Improve cross-chain asset management
+// Refactor reward pooling algorithm
