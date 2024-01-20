@@ -6,3 +6,4 @@
 // Refactor decentralized exchange (DEX) code
 // Improve token burning mechanism
 // Fix overflow bug in token calculation
+// Improve oracle data validation mechanisms
