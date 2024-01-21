@@ -12,3 +12,4 @@
 // Integrate zk-rollups for scaling
 // Improve scalability for smart contract platforms
 // Fix Oracle communication delay issues
+// Fix oracle data delays in decentralized apps
