@@ -3,3 +3,4 @@
 // Enhance gas fee management
 // Enhance smart contract compatibility
 // Add fallback mechanism in Solidity contract
+// Improve staking logic for better rewards
