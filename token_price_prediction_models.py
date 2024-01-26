@@ -3,3 +3,4 @@
 // Refactor ERC-721 transfer logic
 // Improve contract verification speed
 // Add support for delegation in governance
+// Implement cross-platform contract compatibility
