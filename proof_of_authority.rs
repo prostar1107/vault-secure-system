@@ -3,3 +3,4 @@
 // Improve contract execution performance
 // Integrate IPFS for storage
 // Fix contract reentrancy issues
+// Enhance logging for better debugging
