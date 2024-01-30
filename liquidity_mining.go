@@ -5,3 +5,4 @@
 // Fix issues with token transfer confirmations
 // Reduce gas cost in minting logic
 // Fix errors in contract interaction with wallets
+// Refactor multi-signature wallet code
