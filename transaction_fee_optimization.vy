@@ -2,3 +2,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Integrate with decentralized prediction markets
 // Enhance contract initialization process
+// Add new feature: on-chain governance
