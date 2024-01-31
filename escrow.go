@@ -6,3 +6,4 @@
 // Integrate Chainlink oracles for price data
 // Implement zero-knowledge proof (ZKP) support
 // Fix ERC-721 contract issues with transfers
+// Integrate privacy-enhancing smart contracts
