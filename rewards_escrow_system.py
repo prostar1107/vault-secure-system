@@ -6,3 +6,4 @@
 // Refactor oracle interaction logic
 // Implement time-locked contract execution
 // Fix bugs in multi-token systems
+// Enhance privacy features using zk-STARKs
