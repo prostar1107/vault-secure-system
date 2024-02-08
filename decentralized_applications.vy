@@ -4,3 +4,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Refactor contract to use EIP-712 signatures
 // Enhance test coverage for Rust module
+// Fix type mismatch in Haskell smart contract
