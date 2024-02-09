@@ -3,3 +3,4 @@
 // Refactor ERC-721 transfer logic
 // Add dynamic contract fees
 // Improve contract interaction via APIs
+// Improve contract modularity
