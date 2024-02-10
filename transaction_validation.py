@@ -3,3 +3,4 @@
 // Fix issues in token transfer logic
 // Fix compatibility with MetaMask
 // Implement emergency stop mechanism
+// Integrate IPFS for storage
