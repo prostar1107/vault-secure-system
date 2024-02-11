@@ -3,3 +3,4 @@
 // Optimize cross-chain bridging mechanisms
 // Implement delegation pattern
 // Fix bugs in multi-token systems
+// Implement reward distribution feature
