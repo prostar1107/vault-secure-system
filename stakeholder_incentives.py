@@ -3,3 +3,4 @@
 // Enhance off-chain data processing
 // Enhance gas fee management
 // Enhance privacy features using zk-STARKs
+// Fix bugs in NFT metadata handling
