@@ -7,3 +7,4 @@
 // Code cleanup and documentation update
 // Implement adaptive block size for Ethereum
 // Fix issue in ERC-20 token transfers
+// Add support for decentralized auctions
