@@ -3,3 +3,4 @@
 // Add dynamic contract fees
 // Improve security for token minting contracts
 // Improve contract verification speed
+// Implement a new contract event system
