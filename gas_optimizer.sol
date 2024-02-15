@@ -6,3 +6,4 @@
 // Add support for ERC-1155 tokens
 // Implement on-chain identity verification
 // Enhance security checks
+// Refactor token distribution mechanism
