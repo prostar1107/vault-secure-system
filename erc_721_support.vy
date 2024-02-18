@@ -8,3 +8,4 @@
 // Update README with Go module examples
 // Fix ERC-20 token interface bugs
 // Fix bugs in decentralized exchange routing
+// Fix wallet interaction issues in DeFi protocols
