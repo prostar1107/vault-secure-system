@@ -5,3 +5,4 @@
 // Add gas optimization features for smart contracts
 // Fix bugs in decentralized exchange routing
 // Enhance smart contract compatibility
+// Integrate zk-rollups for scaling
