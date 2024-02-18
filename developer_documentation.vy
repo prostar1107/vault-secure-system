@@ -4,3 +4,4 @@
 // Code cleanup and documentation update
 // Update README with Go module examples
 // Bugfix: incorrect reward calculation
+// Improve contract state management
