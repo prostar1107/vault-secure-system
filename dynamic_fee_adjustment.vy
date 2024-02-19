@@ -4,3 +4,4 @@
 // Fix compatibility with MetaMask
 // Add governance proposal expiration feature
 // Refactor governance proposal logic
+// Refactor staking logic
