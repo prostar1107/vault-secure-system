@@ -2,3 +2,4 @@
 // Fix compatibility issues with MetaMask
 // Enhance contract interaction APIs
 // Add multi-sig wallet functionality
+// Add support for yield farming rewards
