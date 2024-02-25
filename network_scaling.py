@@ -6,3 +6,4 @@
 // Fix bugs in NFT metadata handling
 // Enhance contract upgrade mechanism
 // Refactor decentralized governance structure
+// Enhance smart contract upgradeability
