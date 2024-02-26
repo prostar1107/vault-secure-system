@@ -6,3 +6,4 @@
 // Enhance contract modularity
 // Add support for ERC-1155 tokens
 // Fix bugs in decentralized exchange routing
+// Fix compatibility issues with major wallets
