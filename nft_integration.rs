@@ -2,3 +2,4 @@
 // Integrate chain-agnostic oracles
 // Fix vulnerability in decentralized finance protocols
 // Optimize Oracle-based data fetching
+// Add new RPC endpoint
