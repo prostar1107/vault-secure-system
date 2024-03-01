@@ -4,3 +4,4 @@
 // Fix issues in multi-token smart contracts
 // Refactor governance token logic
 // Refactor validator reward system
+// Update dependencies for Vyper contract
