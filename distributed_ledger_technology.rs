@@ -3,3 +3,4 @@
 // Integrate privacy-preserving mechanisms
 // Integrate decentralized oracles for data feeds
 // Integrate decentralized oracles for data feeds
+// Integrate zk-SNARKs for enhanced privacy
