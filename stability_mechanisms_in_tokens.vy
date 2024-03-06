@@ -4,3 +4,4 @@
 // Implement a new contract event system
 // Integrate IPFS for storage
 // Implement on-chain fee adjustment mechanisms
+// Add support for ERC-1155 tokens
