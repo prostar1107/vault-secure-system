@@ -4,3 +4,4 @@
 // Enhance smart contract state changes monitoring
 // Implement delegation pattern
 // Refactor contract event emission
+// Add support for zk-SNARKs in smart contracts
