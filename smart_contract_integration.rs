@@ -5,3 +5,4 @@
 // Integrate privacy-preserving mechanisms
 // Update dependencies for Vyper contract
 // Fix errors in NFT minting logic
+// Refactor governance token logic
