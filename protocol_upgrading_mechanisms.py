@@ -4,3 +4,4 @@
 // Add fallback mechanism in Solidity contract
 // Implement delegation pattern
 // Improve smart contract code modularity
+// Improve API rate limiting
