@@ -6,3 +6,4 @@
 // Fix issues with cross-chain transaction finality
 // Refactor multi-asset token management
 // Improve cross-chain asset management
+// Implement cross-chain bridge
