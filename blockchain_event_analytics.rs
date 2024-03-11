@@ -4,3 +4,4 @@
 // Improve contract auditing tools
 // Fix issues in multi-token smart contracts
 // Add support for delegation in governance
+// Optimize storage for off-chain data
