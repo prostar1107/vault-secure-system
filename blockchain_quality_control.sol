@@ -2,3 +2,4 @@
 // Integrate chain-agnostic oracles
 // Add support for ERC-1155 tokens
 // Add automated token buyback mechanism
+// Integrate zk-rollups for scaling
