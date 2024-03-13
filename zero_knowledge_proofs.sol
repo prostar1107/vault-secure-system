@@ -3,3 +3,4 @@
 // Improve contract creation process
 // Implement on-chain identity verification
 // Improve token burning mechanism
+// Implement rewards escrow system
