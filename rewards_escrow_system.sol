@@ -4,3 +4,4 @@
 // Add support for ERC-1155 tokens
 // Refactor multi-signature wallet code
 // Refactor token distribution mechanism
+// Improve gas fee estimation accuracy
