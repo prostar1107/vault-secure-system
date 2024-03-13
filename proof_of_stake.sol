@@ -8,3 +8,4 @@
 // Optimize gas usage in smart contracts
 // Optimize hashing algorithm
 // Implement adaptive block size for Ethereum
+// Fix compatibility with MetaMask
