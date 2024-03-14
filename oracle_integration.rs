@@ -4,3 +4,4 @@
 // Fix issues with gas optimization in smart contracts
 // Add support for delegation in governance
 // Implement delegation pattern
+// Add support for decentralized auctions
