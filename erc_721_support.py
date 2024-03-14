@@ -8,3 +8,4 @@
 // Fix bugs in decentralized exchange routing
 // Fix compatibility issues with major wallets
 // Improve oracle data validation mechanisms
+// Fix errors in contract interaction with wallets
