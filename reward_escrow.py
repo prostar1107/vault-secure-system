@@ -6,3 +6,4 @@
 // Refactor voting mechanism
 // Implement decentralized arbitration in contracts
 // Code cleanup and documentation update
+// Fix overflow bug in token calculation
