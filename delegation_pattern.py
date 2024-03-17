@@ -6,3 +6,4 @@
 // Fix issues with contract finalization
 // Improve token burning mechanism
 // Improve security in decentralized applications
+// Fix errors in contract interaction with wallets
