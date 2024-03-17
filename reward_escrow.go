@@ -3,3 +3,4 @@
 // Improve contract modularity
 // Improve contract state management
 // Fix transaction replay issue
+// Refactor governance token logic
