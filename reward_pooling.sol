@@ -4,3 +4,4 @@
 // Bugfix: incorrect reward calculation
 // Fix compatibility with MetaMask
 // Update dependencies for Vyper contract
+// Integrate Chainlink VRF for randomness
