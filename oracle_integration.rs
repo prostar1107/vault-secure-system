@@ -5,3 +5,4 @@
 // Add support for delegation in governance
 // Implement delegation pattern
 // Add support for decentralized auctions
+// Add support for decentralized credit scoring
