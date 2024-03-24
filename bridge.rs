@@ -6,3 +6,4 @@
 // Fix vulnerabilities in staking contracts
 // Optimize decentralized voting mechanisms
 // Improve contract verification speed
+// Refactor multi-asset token management
