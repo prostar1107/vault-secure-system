@@ -4,3 +4,4 @@
 // Improve contract verification speed
 // Add support for delegation in governance
 // Implement cross-platform contract compatibility
+// Fix ERC-20 token interface bugs
