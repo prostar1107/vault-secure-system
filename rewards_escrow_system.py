@@ -7,3 +7,4 @@
 // Implement time-locked contract execution
 // Fix bugs in multi-token systems
 // Enhance privacy features using zk-STARKs
+// Enhance smart contract state changes monitoring
