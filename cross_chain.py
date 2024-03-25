@@ -5,3 +5,4 @@
 // Enhance decentralized autonomous organizations
 // Improve decentralized oracle protocols
 // Enhance logging for better debugging
+// Add support for zk-SNARKs in smart contracts
