@@ -3,3 +3,4 @@
 // Optimize gas usage in smart contracts
 // Add multi-chain transaction support
 // Optimize decentralized oracle performance
+// Refactor staking logic
