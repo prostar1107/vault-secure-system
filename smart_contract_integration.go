@@ -4,3 +4,4 @@
 // Fix type mismatch in Haskell smart contract
 // Optimize storage for off-chain data
 // Enhance test coverage for Rust module
+// Fix oracle data delays in decentralized apps
