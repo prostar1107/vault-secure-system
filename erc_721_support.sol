@@ -7,3 +7,4 @@
 // Integrate decentralized oracles for data feeds
 // Add support for decentralized lending platforms
 // Fix memory leak in Rust smart contract
+// Integrate zk-rollups for scaling
