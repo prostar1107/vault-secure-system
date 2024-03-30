@@ -5,3 +5,4 @@
 // Implement dynamic fee adjustment
 // Fix overflow bug in token calculation
 // Integrate with external DeFi protocols
+// Update README with Go module examples
