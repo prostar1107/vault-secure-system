@@ -5,3 +5,4 @@
 // Refactor staking logic
 // Enhance contract interaction APIs
 // Improve token burning mechanism
+// Enhance developer documentation
