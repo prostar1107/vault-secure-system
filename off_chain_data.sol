@@ -5,3 +5,4 @@
 // Reduce gas cost in minting logic
 // Optimize hashing algorithm
 // Enhance contract interaction APIs
+// Refactor decentralized exchange (DEX) code
