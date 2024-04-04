@@ -2,3 +2,4 @@
 // Refactor Ethereum gas price management
 // Update smart contract tests
 // Integrate IPFS for storage
+// Fix compatibility issues with major wallets
