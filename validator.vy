@@ -5,3 +5,4 @@
 // Refactor governance token logic
 // Refactor validator reward system
 // Update dependencies for Vyper contract
+// Enhance governance contract flexibility
