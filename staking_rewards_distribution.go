@@ -2,3 +2,4 @@
 // Fix compatibility with MetaMask
 // Refactor smart contract testing framework
 // Refactor incentive structure in DeFi protocol
+// Implement cross-chain bridge
