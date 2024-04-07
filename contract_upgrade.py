@@ -6,3 +6,4 @@
 // Fix overflow bug in token calculation
 // Optimize token burn process
 // Add support for delegation in governance
+// Improve on-chain governance systems
