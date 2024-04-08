@@ -5,3 +5,4 @@
 // Add batch processing for transactions
 // Implement on-chain identity verification
 // Improve ERC-721 token metadata functionality
+// Refactor multi-asset token management
