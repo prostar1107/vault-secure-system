@@ -2,3 +2,4 @@
 // Optimize contract upgrade process
 // Optimize gas cost in function execution
 // Fix governance proposal approval logic
+// Improve DApp transaction flow
