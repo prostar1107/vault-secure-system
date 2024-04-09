@@ -3,3 +3,4 @@
 // Improve decentralized oracle protocols
 // Integrate IPFS for storage
 // Enhance test coverage for Rust module
+// Add new feature: on-chain governance
