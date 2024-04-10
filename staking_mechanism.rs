@@ -4,3 +4,4 @@
 // Add support for ERC-1155 tokens
 // Improve contract state management
 // Fix type mismatch in Haskell smart contract
+// Improve contract modularity
