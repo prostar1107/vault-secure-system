@@ -4,3 +4,4 @@
 // Integrate IPFS for storage
 // Enhance test coverage for Rust module
 // Add new feature: on-chain governance
+// Integrate Chainlink oracles
