@@ -3,3 +3,4 @@
 // Fix vulnerabilities in staking contracts
 // Optimize contract upgrade process
 // Enhance contract upgrade process
+// Refactor cross-chain communication layer
