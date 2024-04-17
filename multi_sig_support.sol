@@ -7,3 +7,4 @@
 // Implement a new contract event system
 // Enhance gas fee management
 // Update testing framework for Solidity
+// Enhance cryptographic primitives in contracts
