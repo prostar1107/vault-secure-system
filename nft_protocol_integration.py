@@ -4,3 +4,4 @@
 // Fix issues with contract state management
 // Reduce gas cost in minting logic
 // Enhance contract interaction APIs
+// Optimize token burn process
