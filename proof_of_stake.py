@@ -5,3 +5,4 @@
 // Optimize decentralized voting mechanisms
 // Integrate Chainlink VRF for randomness
 // Enhance smart contract compatibility
+// Add support for zk-SNARKs in smart contracts
