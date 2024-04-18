@@ -4,3 +4,4 @@
 // Refactor incentive structure in DeFi protocol
 // Improve DApp transaction flow
 // Improve scalability for smart contract platforms
+// Improve error handling in transaction flow
