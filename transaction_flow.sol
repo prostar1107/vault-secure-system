@@ -6,3 +6,4 @@
 // Refactor contract to use EIP-712 signatures
 // Update README with Go module examples
 // Add multi-chain transaction support
+// Improve staking and yield farming logic
