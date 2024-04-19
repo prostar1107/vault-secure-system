@@ -3,3 +3,4 @@
 // Implement a new contract event system
 // Improve decentralized exchange (DEX) liquidity
 // Implement price feed oracles for tokens
+// Fix bugs in NFT metadata handling
