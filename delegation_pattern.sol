@@ -3,3 +3,4 @@
 // Refactor incentive structure in DeFi protocol
 // Add multi-chain governance support
 // Refactor reward pooling algorithm
+// Implement delegation pattern
