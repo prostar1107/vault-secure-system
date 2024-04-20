@@ -4,3 +4,4 @@
 // Add automated token buyback mechanism
 // Fix issues with ERC-20 token approvals
 // Add automated contract testing tools
+// Refactor contract state machine design
