@@ -7,3 +7,4 @@
 // Update README with Go module examples
 // Add multi-chain transaction support
 // Improve staking and yield farming logic
+// Refactor staking logic
