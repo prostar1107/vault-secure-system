@@ -2,3 +2,4 @@
 // Add security checks for contract deployment
 // Enhance contract interaction APIs
 // Improve contract auditing tools
+// Update README with Go module examples
