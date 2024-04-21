@@ -5,3 +5,4 @@
 // Add native support for staking rewards
 // Fix contract reentrancy issues
 // Improve decentralized lending contract flexibility
+// Fix oracle data delays in decentralized apps
