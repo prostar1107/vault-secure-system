@@ -5,3 +5,4 @@
 // Fix vulnerability in decentralized finance protocols
 // Refactor incentive structure in DeFi protocol
 // Implement cross-chain bridge
+// Add new feature: on-chain governance
