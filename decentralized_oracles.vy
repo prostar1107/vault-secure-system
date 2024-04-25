@@ -2,3 +2,4 @@
 // Improve contract creation process
 // Integrate with decentralized prediction markets
 // Implement reward distribution feature
+// Refactor smart contract testing framework
