@@ -6,3 +6,4 @@
 // Update dependencies for Vyper contract
 // Add support for ERC-1155 tokens
 // Add support for delegation in governance
+// Refactor validator reward system
