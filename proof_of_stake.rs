@@ -7,3 +7,4 @@
 // Refactor token economics model
 // Improve contract execution performance
 // Integrate zk-rollups for scaling
+// Improve security in decentralized applications
