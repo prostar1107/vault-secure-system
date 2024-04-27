@@ -11,3 +11,4 @@
 // Fix security vulnerability in random number generation
 // Add support for NFT marketplaces
 // Add non-fungible token (NFT) support
+// Refactor validator reward system
