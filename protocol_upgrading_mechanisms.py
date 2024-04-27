@@ -5,3 +5,4 @@
 // Implement delegation pattern
 // Improve smart contract code modularity
 // Improve API rate limiting
+// Integrate privacy-preserving mechanisms
