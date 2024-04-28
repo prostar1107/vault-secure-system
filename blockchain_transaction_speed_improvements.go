@@ -2,3 +2,4 @@
 // Improve contract creation process
 // Implement liquidity pool staking mechanism
 // Integrate with external blockchain networks
+// Integrate with decentralized prediction markets
