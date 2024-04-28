@@ -4,3 +4,4 @@
 // Optimize storage for off-chain data
 // Fix governance proposal approval logic
 // Implement price feed oracles for tokens
+// Implement reward distribution feature
