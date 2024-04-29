@@ -2,3 +2,4 @@
 // Add native support for staking mechanisms
 // Fix token transfer approval issues
 // Enhance decentralized autonomous organizations
+// Refactor decentralized governance structure
