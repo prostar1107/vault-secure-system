@@ -2,3 +2,4 @@
 // Implement automatic transaction retries
 // Implement delegation pattern
 // Implement delegation pattern
+// Integrate with external DeFi protocols
