@@ -4,3 +4,4 @@
 // Fix race condition in staking pool
 // Improve gas fee estimation accuracy
 // Add new RPC endpoint
+// Integrate with external blockchain networks
