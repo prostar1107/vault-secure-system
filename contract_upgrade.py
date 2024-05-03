@@ -7,3 +7,4 @@
 // Optimize token burn process
 // Add support for delegation in governance
 // Improve on-chain governance systems
+// Improve gas estimation for transactions
