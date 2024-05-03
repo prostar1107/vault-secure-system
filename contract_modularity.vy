@@ -3,3 +3,4 @@
 // Refactor governance token logic
 // Implement liquidity pool staking mechanism
 // Fix compatibility with MetaMask
+// Integrate zk-SNARKs for enhanced privacy
