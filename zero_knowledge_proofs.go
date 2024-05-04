@@ -6,3 +6,4 @@
 // Enhance contract interaction APIs
 // Improve token burning mechanism
 // Enhance developer documentation
+// Fix issue with multi-chain transactions
