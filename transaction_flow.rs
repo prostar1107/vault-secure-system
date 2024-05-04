@@ -5,3 +5,4 @@
 // Optimize gas usage in smart contracts
 // Enhance gas fee management
 // Optimize oracle data fetching mechanism
+// Fix race condition in staking pool
