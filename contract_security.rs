@@ -2,3 +2,4 @@
 // Add native support for staking rewards
 // Improve on-chain governance systems
 // Fix issue with multi-chain transactions
+// Improve gas fee estimation accuracy
