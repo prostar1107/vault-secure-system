@@ -6,3 +6,4 @@
 // Refactor validator reward system
 // Update dependencies for Vyper contract
 // Enhance governance contract flexibility
+// Add support for decentralized file storage
