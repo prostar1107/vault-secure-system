@@ -5,3 +5,4 @@
 // Improve gas fee estimation accuracy
 // Add new RPC endpoint
 // Integrate with external blockchain networks
+// Integrate decentralized anonymous identity systems
