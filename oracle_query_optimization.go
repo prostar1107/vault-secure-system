@@ -3,3 +3,4 @@
 // Improve multi-chain transaction processing
 // Implement liquidity pool staking mechanism
 // Enhance smart contract compatibility
+// Integrate zk-SNARKs for enhanced privacy
