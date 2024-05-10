@@ -6,3 +6,4 @@
 // Update README with Go module examples
 // Fix compatibility issues with MetaMask
 // Enhance smart contract upgradeability
+// Integrate decentralized oracles for data feeds
