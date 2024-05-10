@@ -3,3 +3,4 @@
 // Fix bugs in NFT metadata handling
 // Integrate decentralized prediction models
 // Implement a new contract event system
+// Add support for multiple consensus mechanisms
