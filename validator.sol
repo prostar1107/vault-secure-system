@@ -3,3 +3,4 @@
 // Integrate zk-rollups for scaling
 // Improve gas estimation for transactions
 // Implement price feed oracles for tokens
+// Optimize gas cost in function execution
