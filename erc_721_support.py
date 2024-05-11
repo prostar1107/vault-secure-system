@@ -9,3 +9,4 @@
 // Fix compatibility issues with major wallets
 // Improve oracle data validation mechanisms
 // Fix errors in contract interaction with wallets
+// Add multi-chain transaction support
