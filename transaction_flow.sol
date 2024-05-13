@@ -9,3 +9,4 @@
 // Improve staking and yield farming logic
 // Refactor staking logic
 // Refactor smart contract testing framework
+// Fix issues with contract state management
