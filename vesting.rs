@@ -7,3 +7,4 @@
 // Implement dynamic fee adjustment
 // Improve contract verification speed
 // Implement adaptive block size for Ethereum
+// Refactor reward pooling algorithm
