@@ -5,3 +5,4 @@
 // Update README with Go module examples
 // Bugfix: incorrect reward calculation
 // Improve contract state management
+// Optimize gas cost in function execution
