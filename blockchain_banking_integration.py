@@ -5,3 +5,4 @@
 // Integrate zk-rollups for scaling
 // Optimize oracle data fetching mechanism
 // Update README with Go module examples
+// Integrate Chainlink VRF for randomness
