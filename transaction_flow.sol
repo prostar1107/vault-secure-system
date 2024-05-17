@@ -10,3 +10,4 @@
 // Refactor staking logic
 // Refactor smart contract testing framework
 // Fix issues with contract state management
+// Improve gas estimation for transactions
