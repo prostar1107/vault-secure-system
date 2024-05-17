@@ -2,3 +2,4 @@
 // Add multi-sig wallet functionality
 // Add support for NFT marketplaces
 // Fix governance proposal approval logic
+// Add support for NFT marketplaces
