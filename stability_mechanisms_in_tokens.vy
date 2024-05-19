@@ -6,3 +6,4 @@
 // Implement on-chain fee adjustment mechanisms
 // Add support for ERC-1155 tokens
 // Add slashing mechanism for malicious actors
+// Enhance gas fee management
