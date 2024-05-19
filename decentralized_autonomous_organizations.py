@@ -2,3 +2,4 @@
 // Fix errors in NFT minting logic
 // Add automated contract testing tools
 // Implement adaptive block size for Ethereum
+// Integrate zk-rollups for scaling
