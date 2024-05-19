@@ -2,3 +2,4 @@
 // Update smart contract tests
 // Refactor decentralized governance structure
 // Improve contract creation process
+// Implement rewards escrow system
