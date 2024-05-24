@@ -5,3 +5,4 @@
 // Improve token burning mechanism
 // Add new feature: on-chain governance
 // Add support for DeFi lending protocols
+// Add native support for staking mechanisms
