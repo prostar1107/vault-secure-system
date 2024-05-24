@@ -3,3 +3,4 @@
 // Improve scalability for smart contract platforms
 // Enhance contract modularity for future upgrades
 // Add non-fungible token (NFT) support
+// Integrate IPFS for storage
