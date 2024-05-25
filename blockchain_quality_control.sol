@@ -4,3 +4,4 @@
 // Add automated token buyback mechanism
 // Integrate zk-rollups for scaling
 // Optimize contract upgrade process
+// Add support for NFT marketplaces
