@@ -4,3 +4,4 @@
 // Fix memory optimization issues in contracts
 // Enhance contract upgrade mechanism
 // Improve transaction batching efficiency
+// Add new feature: on-chain governance
