@@ -6,3 +6,4 @@
 // Integrate Chainlink oracles
 // Refactor governance token logic
 // Optimize multi-chain interaction
+// Integrate Chainlink oracles for price data
