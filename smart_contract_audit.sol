@@ -2,3 +2,4 @@
 // Fix transaction replay issue
 // Add support for decentralized insurance protocols
 // Refactor validator reward system
+// Improve error handling in transaction flow
