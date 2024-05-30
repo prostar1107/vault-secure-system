@@ -5,3 +5,4 @@
 // Optimize token withdrawal logic
 // Integrate decentralized oracles for data feeds
 // Improve multi-chain contract deployment
+// Fix vulnerabilities in staking contracts
