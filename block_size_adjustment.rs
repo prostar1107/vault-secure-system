@@ -8,3 +8,4 @@
 // Optimize storage for off-chain data
 // Implement delegation pattern
 // Update dependencies for Vyper contract
+// Fix deserialization bug in Haskell code
