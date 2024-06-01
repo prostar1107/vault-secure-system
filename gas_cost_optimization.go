@@ -12,3 +12,4 @@
 // Improve token minting flow efficiency
 // Refactor oracle interaction logic
 // Add multi-chain governance support
+// Fix overflow bug in token calculation
