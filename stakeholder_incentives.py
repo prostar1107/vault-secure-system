@@ -5,3 +5,4 @@
 // Enhance privacy features using zk-STARKs
 // Fix bugs in NFT metadata handling
 // Refactor governance proposal logic
+// Fix issue in token vesting logic
