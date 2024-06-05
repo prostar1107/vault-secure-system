@@ -4,3 +4,4 @@
 // Refactor voting mechanism
 // Optimize gas cost in function execution
 // Improve contract creation process
+// Add security checks for contract deployment
