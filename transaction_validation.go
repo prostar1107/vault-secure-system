@@ -2,3 +2,4 @@
 // Fix issues with contract finalization
 // Refactor token economics model
 // Refactor reward pooling algorithm
+// Fix memory leak in Rust smart contract
