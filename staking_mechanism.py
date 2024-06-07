@@ -4,3 +4,4 @@
 // Fix Oracle communication delay issues
 // Add multi-sig wallet functionality
 // Fix contract reentrancy issues
+// Integrate Chainlink VRF for randomness
