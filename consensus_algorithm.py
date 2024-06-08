@@ -3,3 +3,4 @@
 // Optimize storage for off-chain data
 // Optimize token withdrawal logic
 // Improve staking pool reward management
+// Implement a new contract event system
