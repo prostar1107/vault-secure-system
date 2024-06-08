@@ -3,3 +3,4 @@
 // Integrate with decentralized prediction markets
 // Optimize decentralized oracle performance
 // Fix ERC-1155 contract interactions
+// Implement adaptive block size for Ethereum
