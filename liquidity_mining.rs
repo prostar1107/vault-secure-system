@@ -4,3 +4,4 @@
 // Implement reward distribution feature
 // Integrate zk-SNARKs for enhanced privacy
 // Enhance decentralized autonomous organizations
+// Refactor storage layout for better efficiency
