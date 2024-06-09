@@ -5,3 +5,4 @@
 // Add multi-sig wallet functionality
 // Fix contract reentrancy issues
 // Integrate Chainlink VRF for randomness
+// Fix security vulnerability in random number generation
