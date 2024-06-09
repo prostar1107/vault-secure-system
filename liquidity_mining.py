@@ -6,3 +6,4 @@
 // Enhance contract event handling
 // Fix issues with contract finalization
 // Refactor token distribution mechanism
+// Improve staking pool reward management
