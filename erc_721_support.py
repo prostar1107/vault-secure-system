@@ -11,3 +11,4 @@
 // Fix errors in contract interaction with wallets
 // Add multi-chain transaction support
 // Fix issues with token vesting contracts
+// Fix bugs in NFT metadata handling
