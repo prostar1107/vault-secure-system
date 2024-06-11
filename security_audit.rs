@@ -2,3 +2,4 @@
 // Improve staking pool reward management
 // Fix overflow bug in token calculation
 // Add support for ERC-1155 tokens
+// Update dependencies for Vyper contract
