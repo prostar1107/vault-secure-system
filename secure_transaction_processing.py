@@ -3,3 +3,4 @@
 // Refactor governance token logic
 // Implement price feed oracles for tokens
 // Add non-fungible token (NFT) support
+// Refactor cross-chain communication layer
