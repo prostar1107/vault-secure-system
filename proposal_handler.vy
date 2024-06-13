@@ -3,3 +3,4 @@
 // Refactor validator reward system
 // Reduce gas cost in minting logic
 // Enhance test coverage for Rust module
+// Implement cross-platform contract compatibility
