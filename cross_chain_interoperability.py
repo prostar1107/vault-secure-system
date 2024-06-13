@@ -3,3 +3,4 @@
 // Implement on-chain identity verification
 // Refactor staking logic
 // Integrate IPFS for storage
+// Fix issues with gas optimization in smart contracts
