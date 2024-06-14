@@ -2,3 +2,4 @@
 // Improve smart contract logging
 // Integrate zk-rollups for scaling
 // Enhance API rate limiting for smart contracts
+// Add multi-sig wallet functionality
