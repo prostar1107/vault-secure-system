@@ -2,3 +2,4 @@
 // Update testing framework for Solidity
 // Update dependencies for Vyper contract
 // Add support for ERC-721A tokens
+// Add support for batch transaction processing
