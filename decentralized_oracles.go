@@ -6,3 +6,4 @@
 // Refactor smart contract testing framework
 // Enhance contract event handling
 // Fix bugs in NFT metadata handling
+// Update README with Go module examples
