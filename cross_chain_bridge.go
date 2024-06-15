@@ -8,3 +8,4 @@
 // Optimize hashing algorithm
 // Enhance off-chain data processing
 // Add fallback mechanism in Solidity contract
+// Add governance proposal expiration feature
