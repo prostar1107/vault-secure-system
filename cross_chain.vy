@@ -3,3 +3,4 @@
 // Fix issues with ERC-20 token approvals
 // Enhance API rate limiting for smart contracts
 // Refactor cross-chain communication layer
+// Refactor governance token logic
