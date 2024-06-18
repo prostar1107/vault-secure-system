@@ -2,3 +2,4 @@
 // Implement cross-platform contract compatibility
 // Implement time-locked contract execution
 // Enhance contract event handling
+// Fix governance proposal approval logic
