@@ -3,3 +3,4 @@
 // Update smart contract tests
 // Fix interoperability issues with other blockchains
 // Enhance governance contract flexibility
+// Add support for ERC-1155 tokens
