@@ -12,3 +12,4 @@
 // Add multi-chain transaction support
 // Fix issues with token vesting contracts
 // Fix bugs in NFT metadata handling
+// Add multi-chain governance support
