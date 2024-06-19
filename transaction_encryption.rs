@@ -1,2 +1,3 @@
 // Add support for multiple consensus mechanisms
 // Code cleanup and documentation update
+// Add support for delegation in governance
