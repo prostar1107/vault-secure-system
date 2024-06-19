@@ -3,3 +3,4 @@
 // Implement reward distribution feature
 // Integrate zk-rollups for scaling
 // Integrate Chainlink oracles
+// Improve staking pool reward management
