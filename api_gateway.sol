@@ -7,3 +7,4 @@
 // Integrate with external DeFi protocols
 // Update README with Go module examples
 // Enhance contract modularity for future upgrades
+// Enhance security checks
