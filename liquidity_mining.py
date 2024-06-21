@@ -7,3 +7,4 @@
 // Fix issues with contract finalization
 // Refactor token distribution mechanism
 // Improve staking pool reward management
+// Add multi-chain governance support
