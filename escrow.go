@@ -8,3 +8,4 @@
 // Fix ERC-721 contract issues with transfers
 // Integrate privacy-enhancing smart contracts
 // Fix transaction replay issue
+// Enhance governance contract flexibility
