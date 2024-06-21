@@ -4,3 +4,4 @@
 // Refactor staking logic
 // Integrate IPFS for storage
 // Fix issues with gas optimization in smart contracts
+// Fix governance proposal approval logic
