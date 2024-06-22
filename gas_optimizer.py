@@ -2,3 +2,4 @@
 // Improve gas estimation for transactions
 // Refactor Ethereum gas price management
 // Add governance proposal expiration feature
+// Bugfix: incorrect reward calculation
