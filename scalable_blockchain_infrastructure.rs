@@ -2,3 +2,4 @@
 // Fix governance proposal approval logic
 // Fix issues with token transfer confirmations
 // Implement time-locked contract execution
+// Integrate with decentralized identity providers
