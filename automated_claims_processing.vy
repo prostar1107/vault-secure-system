@@ -6,3 +6,4 @@
 // Improve contract modularity
 // Integrate Chainlink oracles for price data
 // Implement performance optimizations for DeFi
+// Add support for ERC-721A tokens
