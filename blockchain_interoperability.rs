@@ -3,3 +3,4 @@
 // Add support for ERC-721A tokens
 // Improve ERC-721 token metadata functionality
 // Refactor voting mechanism
+// Add support for Layer-2 solutions
