@@ -7,3 +7,4 @@
 // Improve token burning mechanism
 // Enhance developer documentation
 // Fix issue with multi-chain transactions
+// Add support for ERC-721A tokens
