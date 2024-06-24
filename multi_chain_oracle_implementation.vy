@@ -7,3 +7,4 @@
 // Refactor multi-asset token management
 // Improve cross-chain asset management
 // Implement cross-chain bridge
+// Refactor storage layout for better efficiency
