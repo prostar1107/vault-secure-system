@@ -12,3 +12,4 @@
 // Add support for NFT marketplaces
 // Add non-fungible token (NFT) support
 // Refactor validator reward system
+// Integrate with multi-token standards
