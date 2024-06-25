@@ -4,3 +4,4 @@
 // Add support for DeFi lending protocols
 // Fix transaction replay issue
 // Fix issues in token transfer logic
+// Integrate decentralized oracles for data feeds
