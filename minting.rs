@@ -4,3 +4,4 @@
 // Integrate with decentralized prediction markets
 // Optimize gas cost in function execution
 // Implement liquidity pool staking mechanism
+// Fix compatibility issues with MetaMask
