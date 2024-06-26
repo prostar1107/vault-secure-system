@@ -5,3 +5,4 @@
 // Add support for delegation in governance
 // Implement cross-platform contract compatibility
 // Fix ERC-20 token interface bugs
+// Refactor ERC-721 transfer logic
