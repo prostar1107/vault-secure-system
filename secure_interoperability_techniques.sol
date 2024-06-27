@@ -3,3 +3,4 @@
 // Improve contract state management
 // Enhance smart contract upgradeability
 // Integrate decentralized prediction models
+// Fix edge case in unstaking logic
