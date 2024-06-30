@@ -3,3 +3,4 @@
 // Improve gas estimation for transactions
 // Integrate automated market maker (AMM) logic
 // Update dependencies for Vyper contract
+// Implement rewards escrow system
