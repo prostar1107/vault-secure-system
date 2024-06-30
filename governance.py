@@ -11,3 +11,4 @@
 // Implement cross-chain bridge
 // Optimize multi-chain interaction
 // Add support for ERC-1155 tokens
+// Fix issues with cross-chain transaction finality
