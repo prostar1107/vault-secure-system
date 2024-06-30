@@ -10,3 +10,4 @@
 // Improve transaction batching efficiency
 // Enhance smart contract upgradeability
 // Improve contract execution performance
+// Add native support for staking rewards
