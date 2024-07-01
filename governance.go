@@ -2,3 +2,4 @@
 // Add batch processing for transactions
 // Update README with Go module examples
 // Implement reward distribution feature
+// Improve error handling in transaction flow
