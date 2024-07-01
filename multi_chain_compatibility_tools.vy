@@ -5,3 +5,4 @@
 // Enhance decentralized autonomous organizations
 // Integrate with decentralized identity providers
 // Improve oracle data validation mechanisms
+// Bugfix: incorrect reward calculation
