@@ -2,3 +2,4 @@
 // Add native support for staking mechanisms
 // Implement emergency stop mechanism
 // Enhance test coverage for Rust module
+// Update README with Go module examples
