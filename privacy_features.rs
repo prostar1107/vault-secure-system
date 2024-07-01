@@ -3,3 +3,4 @@
 // Code cleanup and documentation update
 // Add support for yield farming rewards
 // Fix deserialization bug in Haskell code
+// Improve security in decentralized applications
