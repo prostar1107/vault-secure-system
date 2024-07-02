@@ -8,3 +8,4 @@
 // Enhance decentralized autonomous organizations
 // Enhance smart contract upgradeability
 // Optimize gas cost in function execution
+// Improve ERC-721 token metadata functionality
