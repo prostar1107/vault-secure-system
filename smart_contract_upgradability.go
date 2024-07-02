@@ -4,3 +4,4 @@
 // Add support for delegation in governance
 // Enhance contract state verification
 // Fix wallet interaction issues in DeFi protocols
+// Fix issues with contract finalization
