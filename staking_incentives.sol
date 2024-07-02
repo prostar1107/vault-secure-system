@@ -3,3 +3,4 @@
 // Implement contract function batching
 // Enhance off-chain data processing
 // Enhance contract upgrade process
+// Implement liquidity pool staking mechanism
