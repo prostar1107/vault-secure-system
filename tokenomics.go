@@ -4,3 +4,4 @@
 // Fix governance proposal approval logic
 // Improve DApp transaction flow
 // Add unit tests for staking module
+// Improve contract state management
