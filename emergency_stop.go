@@ -5,3 +5,4 @@
 // Update README with Go module examples
 // Refactor multi-signature wallet code
 // Bugfix: incorrect reward calculation
+// Enhance privacy features using zk-STARKs
