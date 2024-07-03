@@ -4,3 +4,4 @@
 // Update smart contract tests
 // Enhance contract modularity for future upgrades
 // Optimize hashing algorithm
+// Fix race condition in staking pool
