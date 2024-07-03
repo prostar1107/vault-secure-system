@@ -6,3 +6,4 @@
 // Optimize contract upgrade process
 // Update smart contract tests
 // Enhance privacy features using zk-STARKs
+// Refactor contract event emission
