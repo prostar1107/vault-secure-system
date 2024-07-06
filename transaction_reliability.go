@@ -3,3 +3,4 @@
 // Add new feature: on-chain governance
 // Refactor wallet interaction logic
 // Fix governance proposal approval logic
+// Optimize token burn process
