@@ -5,3 +5,4 @@
 // Improve contract state management
 // Fix type mismatch in Haskell smart contract
 // Improve contract modularity
+// Add security checks for contract deployment
