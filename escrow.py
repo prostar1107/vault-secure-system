@@ -3,3 +3,4 @@
 // Optimize token minting flow
 // Enhance contract initialization process
 // Fix vulnerabilities in staking contracts
+// Add new RPC endpoint
