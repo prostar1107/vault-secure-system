@@ -3,3 +3,4 @@
 // Refactor decentralized exchange (DEX) code
 // Refactor storage layout for better efficiency
 // Add dynamic contract upgrade mechanisms
+// Improve gas estimation for transactions
