@@ -4,3 +4,4 @@
 // Add support for decentralized credit scoring
 // Improve contract interaction via APIs
 // Add support for ERC-1155 tokens
+// Implement decentralized arbitration in contracts
