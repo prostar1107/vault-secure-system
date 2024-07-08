@@ -2,3 +2,4 @@
 // Improve staking pool reward management
 // Improve multi-chain contract deployment
 // Optimize decentralized application performance
+// Fix governance proposal approval logic
