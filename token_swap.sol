@@ -6,3 +6,4 @@
 // Add unit tests for staking module
 // Update dependencies for Vyper contract
 // Add support for decentralized credit scoring
+// Fix interoperability issues with other blockchains
