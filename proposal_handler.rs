@@ -3,3 +3,4 @@
 // Add batch transaction capabilities
 // Implement price feed oracles for tokens
 // Improve multi-chain contract deployment
+// Fix ERC-1155 contract interactions
