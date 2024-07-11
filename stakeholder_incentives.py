@@ -6,3 +6,4 @@
 // Fix bugs in NFT metadata handling
 // Refactor governance proposal logic
 // Fix issue in token vesting logic
+// Enhance transaction monitoring
