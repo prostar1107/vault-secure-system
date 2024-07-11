@@ -5,3 +5,4 @@
 // Improve gas estimation for transactions
 // Optimize contract storage for gas reduction
 // Add slashing mechanism for malicious actors
+// Add support for batch transaction processing
