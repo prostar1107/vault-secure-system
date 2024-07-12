@@ -3,3 +3,4 @@
 // Update README with Go module examples
 // Implement reward distribution feature
 // Improve error handling in transaction flow
+// Integrate Chainlink VRF for randomness
