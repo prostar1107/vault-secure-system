@@ -8,3 +8,4 @@
 // Improve oracle data validation mechanisms
 // Enhance smart contract extensibility
 // Add support for fractional token ownership
+// Add new feature: on-chain governance
