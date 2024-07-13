@@ -2,3 +2,4 @@
 // Refactor reward pooling algorithm
 // Improve security for token minting contracts
 // Improve decentralized identity (DID) systems
+// Add support for ERC-1155 tokens
