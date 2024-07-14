@@ -3,3 +3,4 @@
 // Improve token burning mechanism
 // Add native support for staking rewards
 // Add automated smart contract testing
+// Fix ERC-1155 contract interactions
