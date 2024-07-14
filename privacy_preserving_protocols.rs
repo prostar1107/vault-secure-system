@@ -3,3 +3,4 @@
 // Optimize storage for off-chain data
 // Optimize hashing algorithm
 // Enhance privacy features using zk-STARKs
+// Optimize contract upgrade process
