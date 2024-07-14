@@ -4,3 +4,4 @@
 // Enhance smart contract upgradeability
 // Integrate decentralized prediction models
 // Fix edge case in unstaking logic
+// Add support for decentralized file storage
