@@ -2,3 +2,4 @@
 // Implement adaptive block size for Ethereum
 // Integrate Chainlink oracles for price data
 // Optimize hashing algorithm
+// Refactor storage layout for better efficiency
