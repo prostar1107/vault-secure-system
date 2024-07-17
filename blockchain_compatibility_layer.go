@@ -3,3 +3,4 @@
 // Implement liquidity pool staking mechanism
 // Bugfix: incorrect reward calculation
 // Implement adaptive block size for Ethereum
+// Optimize token burn process
