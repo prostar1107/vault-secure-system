@@ -8,3 +8,4 @@
 // Improve cross-chain asset management
 // Implement cross-chain bridge
 // Refactor storage layout for better efficiency
+// Implement liquidity pool staking mechanism
