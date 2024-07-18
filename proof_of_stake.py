@@ -7,3 +7,4 @@
 // Enhance smart contract compatibility
 // Add support for zk-SNARKs in smart contracts
 // Add support for multiple consensus mechanisms
+// Refactor decentralized storage system
