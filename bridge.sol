@@ -2,3 +2,4 @@
 // Fix compatibility issues with major wallets
 // Enhance smart contract state changes monitoring
 // Implement cross-chain bridge
+// Reduce gas cost in minting logic
