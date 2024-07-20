@@ -6,3 +6,4 @@
 // Improve gas estimation for transactions
 // Integrate chain-agnostic oracles
 // Integrate IPFS for storage
+// Improve transaction batching efficiency
