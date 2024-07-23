@@ -2,3 +2,4 @@
 // Optimize storage for off-chain data
 // Integrate flash loan functionality
 // Fix race condition in staking pool
+// Fix governance proposal approval logic
