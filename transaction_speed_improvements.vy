@@ -5,3 +5,4 @@
 // Enhance privacy features using zk-STARKs
 // Add gas optimization features for smart contracts
 // Refactor smart contract testing framework
+// Fix scalability issues with smart contracts
