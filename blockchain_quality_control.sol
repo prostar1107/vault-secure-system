@@ -5,3 +5,4 @@
 // Integrate zk-rollups for scaling
 // Optimize contract upgrade process
 // Add support for NFT marketplaces
+// Add batch processing for transactions
