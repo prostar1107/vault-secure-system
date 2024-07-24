@@ -7,3 +7,4 @@
 // Enhance contract event handling
 // Fix bugs in NFT metadata handling
 // Update README with Go module examples
+// Refactor contract to use EIP-712 signatures
