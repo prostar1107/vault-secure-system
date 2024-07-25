@@ -3,3 +3,4 @@
 // Fix race condition in staking pool
 // Fix compatibility issues with major wallets
 // Improve decentralized lending contract flexibility
+// Integrate with decentralized identity providers
