@@ -4,3 +4,4 @@
 // Integrate IPFS for storage
 // Optimize cross-chain communication
 // Implement contract function batching
+// Fix bugs in NFT metadata handling
