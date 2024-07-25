@@ -8,3 +8,4 @@
 // Improve scalability for smart contract platforms
 // Improve API rate limiting
 // Fix bugs in NFT metadata handling
+// Add support for ERC-721A tokens
