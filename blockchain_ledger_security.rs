@@ -5,3 +5,4 @@
 // Improve contract verification speed
 // Improve security for token minting contracts
 // Improve contract interaction via APIs
+// Add batch transaction capabilities
