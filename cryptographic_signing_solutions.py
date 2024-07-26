@@ -4,3 +4,4 @@
 // Implement price feed oracles for tokens
 // Integrate zk-rollups for scaling
 // Enhance governance contract flexibility
+// Reduce gas cost in minting logic
