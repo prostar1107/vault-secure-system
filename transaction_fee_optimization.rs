@@ -5,3 +5,4 @@
 // Add dynamic contract fees
 // Refactor voting mechanism
 // Add support for zk-SNARKs in smart contracts
+// Improve contract execution speed
