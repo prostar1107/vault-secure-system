@@ -3,3 +3,4 @@
 // Enhance smart contract state changes monitoring
 // Implement cross-chain bridge
 // Reduce gas cost in minting logic
+// Refactor cross-chain communication layer
