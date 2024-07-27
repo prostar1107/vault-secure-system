@@ -3,3 +3,4 @@
 // Update smart contract tests
 // Integrate IPFS for storage
 // Fix compatibility issues with major wallets
+// Refactor multi-signature wallet code
