@@ -4,3 +4,4 @@
 // Enhance smart contract upgradeability
 // Refactor contract state machine design
 // Implement zero-knowledge proof (ZKP) support
+// Improve contract interaction via APIs
