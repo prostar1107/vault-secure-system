@@ -6,3 +6,4 @@
 // Add support for yield farming rewards
 // Improve token minting flow efficiency
 // Refactor reward pooling algorithm
+// Reduce gas cost in minting logic
