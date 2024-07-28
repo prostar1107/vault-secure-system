@@ -5,3 +5,4 @@
 // Enhance contract initialization process
 // Refactor staking logic
 // Enhance decentralized autonomous governance
+// Refactor governance token logic
