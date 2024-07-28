@@ -6,3 +6,4 @@
 // Enhance governance contract flexibility
 // Fix issues with gas optimization in smart contracts
 // Fix bugs in NFT metadata handling
+// Fix memory leak in Rust smart contract
