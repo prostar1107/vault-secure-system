@@ -5,3 +5,4 @@
 // Improve error handling in transaction flow
 // Integrate with decentralized prediction markets
 // Fix governance proposal approval logic
+// Integrate Chainlink oracles for price data
