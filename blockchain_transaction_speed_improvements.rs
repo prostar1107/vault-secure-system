@@ -2,3 +2,4 @@
 // Add unit tests for staking module
 // Fix issues with contract finalization
 // Add support for decentralized lending platforms
+// Reduce gas cost in minting logic
