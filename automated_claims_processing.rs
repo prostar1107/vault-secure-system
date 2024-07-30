@@ -3,3 +3,4 @@
 // Fix issues with contract finalization
 // Code cleanup and documentation update
 // Refactor contract event emission
+// Improve contract interaction via APIs
