@@ -4,3 +4,4 @@
 // Fix deserialization bug in Haskell code
 // Integrate with decentralized identity providers
 // Integrate with decentralized prediction markets
+// Refactor decentralized exchange (DEX) code
