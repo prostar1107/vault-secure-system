@@ -7,3 +7,4 @@
 // Implement rewards escrow system
 // Optimize state channels for faster transactions
 // Improve token burning mechanism
+// Add support for ERC-721A tokens
