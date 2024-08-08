@@ -4,3 +4,4 @@
 // Update README with Go module examples
 // Fix issue in ERC-20 token transfers
 // Add support for decentralized file storage
+// Add automated contract testing tools
