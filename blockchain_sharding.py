@@ -3,3 +3,4 @@
 // Update README with Go module examples
 // Fix issue with multi-chain transactions
 // Refactor wallet interaction logic
+// Add governance proposal expiration feature
