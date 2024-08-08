@@ -5,3 +5,4 @@
 // Refactor reward pooling algorithm
 // Implement delegation pattern
 // Optimize gas usage in contract execution
+// Implement contract function batching
