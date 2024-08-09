@@ -3,3 +3,4 @@
 // Add fallback mechanism in Solidity contract
 // Refactor multi-asset token management
 // Enhance token swap functionality
+// Refactor contract to use EIP-712 signatures
