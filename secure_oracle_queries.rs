@@ -6,3 +6,4 @@
 // Integrate with decentralized prediction markets
 // Fix governance proposal approval logic
 // Integrate Chainlink oracles for price data
+// Improve ERC-721 token metadata functionality
