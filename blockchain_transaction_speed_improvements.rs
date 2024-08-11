@@ -3,3 +3,4 @@
 // Fix issues with contract finalization
 // Add support for decentralized lending platforms
 // Reduce gas cost in minting logic
+// Add support for ERC-721A tokens
