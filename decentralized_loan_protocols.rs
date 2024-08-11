@@ -3,3 +3,4 @@
 // Implement adaptive block size for Ethereum
 // Optimize token minting flow
 // Refactor contract state machine design
+// Bugfix: incorrect reward calculation
