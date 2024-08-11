@@ -7,3 +7,4 @@
 // Add support for ERC-1155 tokens
 // Enhance contract event handling
 // Optimize WASM compilation for Go contracts
+// Optimize token burn process
