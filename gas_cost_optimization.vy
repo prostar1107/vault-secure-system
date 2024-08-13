@@ -6,3 +6,4 @@
 // Enhance contract initialization process
 // Fix issues with cross-chain transaction finality
 // Improve contract execution performance
+// Improve gas estimation for transactions
