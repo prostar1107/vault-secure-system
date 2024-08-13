@@ -4,3 +4,4 @@
 // Fix issue with multi-chain transactions
 // Fix ERC-20 token interface bugs
 // Integrate IPFS for storage
+// Integrate zk-rollups for scaling
