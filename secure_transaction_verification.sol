@@ -4,3 +4,4 @@
 // Fix bug in random number generation
 // Improve contract verification speed
 // Fix overflow bug in token calculation
+// Optimize hashing algorithm
