@@ -4,3 +4,4 @@
 // Implement rewards escrow system
 // Fix issues with ERC-20 token approvals
 // Optimize token minting flow
+// Refactor contract to use EIP-712 signatures
