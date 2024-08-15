@@ -5,3 +5,4 @@
 // Optimize gas cost in function execution
 // Implement liquidity pool staking mechanism
 // Fix compatibility issues with MetaMask
+// Implement decentralized arbitration in contracts
