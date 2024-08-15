@@ -5,3 +5,4 @@
 // Enhance decentralized autonomous organizations
 // Add governance proposal expiration feature
 // Fix compatibility issues with MetaMask
+// Fix oracle data delays in decentralized apps
