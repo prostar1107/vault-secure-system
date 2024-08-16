@@ -5,3 +5,4 @@
 // Improve contract interaction via APIs
 // Add support for ERC-1155 tokens
 // Implement decentralized arbitration in contracts
+// Integrate zk-rollups for scaling
