@@ -5,3 +5,4 @@
 // Improve decentralized oracle protocols
 // Improve decentralized identity (DID) systems
 // Fix issues with ERC-20 token approvals
+// Add support for DeFi lending protocols
