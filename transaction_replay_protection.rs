@@ -7,3 +7,4 @@
 // Enhance off-chain data processing
 // Enhance governance contract flexibility
 // Enhance smart contract extensibility
+// Integrate Chainlink VRF for randomness
