@@ -5,3 +5,4 @@
 // Add new feature: on-chain governance
 // Add support for decentralized marketplaces
 // Enhance decentralized autonomous organizations
+// Enhance logging for better debugging
