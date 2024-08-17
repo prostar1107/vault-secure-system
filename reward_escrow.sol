@@ -4,3 +4,4 @@
 // Improve API rate limiting
 // Fix issues with token vesting contracts
 // Integrate with external DeFi protocols
+// Add support for decentralized credit scoring
