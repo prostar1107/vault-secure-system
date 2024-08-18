@@ -4,3 +4,4 @@
 // Add support for ERC-1155 tokens
 // Fix errors in contract interaction with wallets
 // Fix compatibility issues with MetaMask
+// Fix race condition in staking pool
