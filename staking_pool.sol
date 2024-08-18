@@ -5,3 +5,4 @@
 // Optimize decentralized voting mechanisms
 // Improve gas estimation for transactions
 // Fix interoperability issues with other blockchains
+// Add slashing mechanism for malicious actors
