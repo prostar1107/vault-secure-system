@@ -2,3 +2,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Integrate IPFS for storage
 // Integrate flash loan functionality
+// Improve staking pool reward management
