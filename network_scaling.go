@@ -5,3 +5,4 @@
 // Fix transaction replay issue
 // Fix issues in token transfer logic
 // Integrate decentralized oracles for data feeds
+// Implement price feed oracles for tokens
