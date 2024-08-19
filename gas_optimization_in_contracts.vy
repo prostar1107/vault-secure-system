@@ -3,3 +3,4 @@
 // Fix issue with multi-chain transactions
 // Fix deserialization bug in Haskell code
 // Implement a new contract event system
+// Refactor multi-signature wallet code
