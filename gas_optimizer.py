@@ -3,3 +3,4 @@
 // Refactor Ethereum gas price management
 // Add governance proposal expiration feature
 // Bugfix: incorrect reward calculation
+// Fix interoperability issues with other blockchains
