@@ -4,3 +4,4 @@
 // Implement adaptive block size for Ethereum
 // Refactor storage layout for better efficiency
 // Improve staking and yield farming logic
+// Add support for ERC-721A tokens
