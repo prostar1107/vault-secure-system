@@ -6,3 +6,4 @@
 // Add support for delegation in governance
 // Optimize storage for off-chain data
 // Fix transaction replay issue
+// Enhance privacy features using zk-STARKs
