@@ -4,3 +4,4 @@
 // Fix vulnerabilities in staking contracts
 // Add support for multi-signature wallet contracts
 // Refactor contract to use EIP-712 signatures
+// Improve scalability for smart contract platforms
