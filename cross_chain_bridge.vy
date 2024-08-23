@@ -6,3 +6,4 @@
 // Fix compatibility with MetaMask
 // Optimize gas cost in function execution
 // Integrate multi-chain liquidity pools
+// Fix bug in random number generation
