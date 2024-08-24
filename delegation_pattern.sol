@@ -6,3 +6,4 @@
 // Implement delegation pattern
 // Optimize gas usage in contract execution
 // Implement contract function batching
+// Fix compatibility issues with MetaMask
