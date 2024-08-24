@@ -2,3 +2,4 @@
 // Enhance smart contract upgradeability
 // Fix governance proposal approval logic
 // Improve gas estimation for transactions
+// Integrate Chainlink VRF for randomness
