@@ -7,3 +7,4 @@
 // Update README with Go module examples
 // Integrate Chainlink VRF for randomness
 // Add automated contract testing tools
+// Implement a new contract event system
