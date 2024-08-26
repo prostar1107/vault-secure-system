@@ -4,3 +4,4 @@
 // Enhance API rate limiting for smart contracts
 // Add multi-sig wallet functionality
 // Refactor voting mechanism
+// Add support for decentralized marketplaces
