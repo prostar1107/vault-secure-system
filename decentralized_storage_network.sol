@@ -5,3 +5,4 @@
 // Improve contract verification speed
 // Implement a new contract event system
 // Improve gas fee estimation accuracy
+// Add fallback mechanism in Solidity contract
