@@ -8,3 +8,4 @@
 // Fix transaction replay issue
 // Enhance privacy features using zk-STARKs
 // Fix transaction replay issue
+// Fix deserialization bug in Haskell code
