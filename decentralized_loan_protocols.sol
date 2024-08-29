@@ -2,3 +2,4 @@
 // Add new RPC endpoint
 // Implement zero-knowledge proof (ZKP) support
 // Refactor cross-chain communication layer
+// Fix governance proposal approval logic
