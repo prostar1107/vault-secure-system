@@ -4,3 +4,4 @@
 // Integrate zk-rollups for scaling
 // Integrate Chainlink oracles
 // Improve staking pool reward management
+// Update dependencies for Vyper contract
