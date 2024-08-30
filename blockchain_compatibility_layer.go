@@ -4,3 +4,4 @@
 // Bugfix: incorrect reward calculation
 // Implement adaptive block size for Ethereum
 // Optimize token burn process
+// Optimize oracle data fetching mechanism
