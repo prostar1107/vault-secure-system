@@ -4,3 +4,4 @@
 // Refactor smart contract testing framework
 // Fix compatibility issues with MetaMask
 // Update smart contract tests
+// Optimize WASM compilation for Go contracts
