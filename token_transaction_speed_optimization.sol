@@ -5,3 +5,4 @@
 // Implement liquidity pool staking mechanism
 // Fix interoperability issues with other blockchains
 // Add support for decentralized lending platforms
+// Implement price feed oracles for tokens
