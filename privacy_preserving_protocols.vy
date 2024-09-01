@@ -5,3 +5,4 @@
 // Optimize cross-chain communication
 // Implement contract function batching
 // Fix bugs in NFT metadata handling
+// Fix governance proposal approval logic
