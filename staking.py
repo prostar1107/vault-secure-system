@@ -3,3 +3,4 @@
 // Improve scalability for smart contract platforms
 // Optimize gas usage in smart contracts
 // Refactor staking logic
+// Integrate automated market maker (AMM) logic
