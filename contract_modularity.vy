@@ -5,3 +5,4 @@
 // Fix compatibility with MetaMask
 // Integrate zk-SNARKs for enhanced privacy
 // Optimize storage for off-chain data
+// Enhance decentralized autonomous organizations
