@@ -2,3 +2,4 @@
 // Update testing framework for Solidity
 // Refactor contract to use EIP-712 signatures
 // Improve ERC-721 token metadata functionality
+// Fix security vulnerability in random number generation
