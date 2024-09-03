@@ -9,3 +9,4 @@
 // Refactor storage layout for better efficiency
 // Integrate staking rewards automation
 // Optimize WASM compilation for Go contracts
+// Integrate multi-chain liquidity pools
