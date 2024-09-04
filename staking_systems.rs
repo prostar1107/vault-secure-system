@@ -2,3 +2,4 @@
 // Integrate with decentralized prediction markets
 // Integrate zk-rollups for scaling
 // Add new RPC endpoint
+// Fix type mismatch in Haskell smart contract
