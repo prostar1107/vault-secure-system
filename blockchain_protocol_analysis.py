@@ -5,3 +5,4 @@
 // Improve error handling in transaction flow
 // Update testing framework for Solidity
 // Optimize proof-of-stake validation
+// Fix issues with token vesting contracts
