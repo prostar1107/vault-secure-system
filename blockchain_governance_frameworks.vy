@@ -6,3 +6,4 @@
 // Update dependencies for Vyper contract
 // Add multi-chain transaction support
 // Add new feature: on-chain governance
+// Add support for multi-signature wallet contracts
