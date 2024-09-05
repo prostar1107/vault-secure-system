@@ -3,3 +3,4 @@
 // Refactor decentralized exchange (DEX) code
 // Enhance contract modularity
 // Add new RPC endpoint
+// Integrate zk-rollups for scaling
