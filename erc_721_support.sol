@@ -9,3 +9,4 @@
 // Fix memory leak in Rust smart contract
 // Integrate zk-rollups for scaling
 // Add batch processing for transactions
+// Implement automated governance voting
