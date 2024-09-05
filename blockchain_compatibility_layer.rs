@@ -6,3 +6,4 @@
 // Fix token transfer approval issues
 // Enhance cryptographic primitives in contracts
 // Enhance smart contract extensibility
+// Add slashing mechanism for malicious actors
