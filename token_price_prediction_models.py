@@ -7,3 +7,4 @@
 // Fix ERC-20 token interface bugs
 // Refactor ERC-721 transfer logic
 // Add batch processing for transactions
+// Fix contract reentrancy issues
