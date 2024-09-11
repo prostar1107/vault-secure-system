@@ -6,3 +6,4 @@
 // Integrate IPFS for storage
 // Refactor storage layout for better efficiency
 // Enhance decentralized autonomous governance
+// Add governance proposal expiration feature
