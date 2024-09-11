@@ -6,3 +6,4 @@
 // Add support for decentralized marketplaces
 // Enhance decentralized autonomous organizations
 // Enhance logging for better debugging
+// Fix compatibility with MetaMask
