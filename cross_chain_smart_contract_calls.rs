@@ -7,3 +7,4 @@
 // Integrate Chainlink oracles
 // Improve gas fee estimation accuracy
 // Improve token burning mechanism
+// Fix issues with token vesting contracts
