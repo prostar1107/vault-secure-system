@@ -7,3 +7,4 @@
 // Optimize oracle data fetching mechanism
 // Fix race condition in staking pool
 // Implement delegation pattern
+// Implement price feed oracles for tokens
