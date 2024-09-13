@@ -6,3 +6,4 @@
 // Improve decentralized identity (DID) systems
 // Fix bug in random number generation
 // Integrate with multi-token standards
+// Integrate privacy-preserving mechanisms
