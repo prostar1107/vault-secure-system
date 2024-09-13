@@ -3,3 +3,4 @@
 // Implement delegation pattern
 // Enhance governance contract flexibility
 // Add support for decentralized insurance protocols
+// Improve gas estimation for transactions
