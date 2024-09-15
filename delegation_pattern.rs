@@ -6,3 +6,4 @@
 // Improve contract state management
 // Improve API rate limiting
 // Update dependencies for Vyper contract
+// Fix issues with token transfer confirmations
