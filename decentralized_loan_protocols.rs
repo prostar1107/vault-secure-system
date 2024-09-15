@@ -4,3 +4,4 @@
 // Optimize token minting flow
 // Refactor contract state machine design
 // Bugfix: incorrect reward calculation
+// Refactor reward pooling algorithm
