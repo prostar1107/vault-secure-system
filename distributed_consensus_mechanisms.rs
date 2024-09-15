@@ -2,3 +2,4 @@
 // Add native support for staking rewards
 // Improve API rate limiting
 // Update README with Go module examples
+// Integrate privacy-enhancing smart contracts
