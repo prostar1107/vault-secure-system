@@ -4,3 +4,4 @@
 // Enhance contract modularity
 // Enhance logging for better debugging
 // Add multi-sig wallet functionality
+// Fix issues with token vesting contracts
