@@ -3,3 +3,4 @@
 // Integrate flash loan functionality
 // Fix race condition in staking pool
 // Fix governance proposal approval logic
+// Add support for multi-signature wallet contracts
