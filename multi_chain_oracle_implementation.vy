@@ -9,3 +9,4 @@
 // Implement cross-chain bridge
 // Refactor storage layout for better efficiency
 // Implement liquidity pool staking mechanism
+// Integrate Chainlink oracles for price data
