@@ -4,3 +4,4 @@
 // Add multi-sig wallet functionality
 // Add support for yield farming rewards
 // Fix bug in random number generation
+// Improve API rate limiting
