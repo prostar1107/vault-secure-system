@@ -5,3 +5,4 @@
 // Fix governance proposal approval logic
 // Enhance API rate limiting for smart contracts
 // Enhance developer documentation
+// Fix issue in token vesting logic
