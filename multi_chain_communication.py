@@ -6,3 +6,4 @@
 // Add support for fractional token ownership
 // Refactor incentive structure in DeFi protocol
 // Enhance governance contract flexibility
+// Refactor contract to use EIP-712 signatures
