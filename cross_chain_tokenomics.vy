@@ -3,3 +3,4 @@
 // Fix issue with multi-chain transactions
 // Enhance contract interaction APIs
 // Refactor multi-signature wallet code
+// Add support for zk-SNARKs in smart contracts
