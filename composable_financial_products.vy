@@ -4,3 +4,4 @@
 // Refactor token distribution mechanism
 // Add support for decentralized content distribution
 // Implement adaptive block size for Ethereum
+// Add support for ERC-721A tokens
