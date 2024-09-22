@@ -4,3 +4,4 @@
 // Add support for delegation in governance
 // Improve staking pool reward management
 // Implement adaptive block size for Ethereum
+// Fix race condition in staking pool
