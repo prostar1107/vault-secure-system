@@ -7,3 +7,4 @@
 // Add support for ERC-1155 tokens
 // Add support for delegation in governance
 // Refactor validator reward system
+// Add support for ERC-1155 tokens
