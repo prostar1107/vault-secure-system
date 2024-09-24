@@ -7,3 +7,4 @@
 // Improve API rate limiting
 // Integrate privacy-preserving mechanisms
 // Fix compatibility with MetaMask
+// Integrate zk-rollups for scaling
