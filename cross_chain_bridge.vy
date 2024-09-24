@@ -7,3 +7,4 @@
 // Optimize gas cost in function execution
 // Integrate multi-chain liquidity pools
 // Fix bug in random number generation
+// Integrate with Ethereum Layer-2 solutions
