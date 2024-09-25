@@ -5,3 +5,4 @@
 // Reduce gas cost in minting logic
 // Enhance contract interaction APIs
 // Optimize token burn process
+// Fix issues in multi-token smart contracts
