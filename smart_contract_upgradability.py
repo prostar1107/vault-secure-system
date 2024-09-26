@@ -5,3 +5,4 @@
 // Refactor token economics model
 // Fix issues with ERC-20 token approvals
 // Update README with Go module examples
+// Refactor token distribution mechanism
