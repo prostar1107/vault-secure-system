@@ -5,3 +5,4 @@
 // Fix ERC-1155 contract interactions
 // Improve decentralized exchange (DEX) liquidity
 // Update smart contract tests
+// Improve contract modularity
