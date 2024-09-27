@@ -10,3 +10,4 @@
 // Fix bugs in NFT metadata handling
 // Add support for ERC-721A tokens
 // Update smart contract tests
+// Integrate with multi-token standards
