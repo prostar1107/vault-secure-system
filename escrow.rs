@@ -6,3 +6,4 @@
 // Improve gas fee estimation accuracy
 // Add support for multi-signature wallet contracts
 // Integrate with decentralized storage systems
+// Add governance proposal expiration feature
