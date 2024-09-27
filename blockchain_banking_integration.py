@@ -8,3 +8,4 @@
 // Integrate Chainlink VRF for randomness
 // Add automated contract testing tools
 // Implement a new contract event system
+// Fix issue in token vesting logic
