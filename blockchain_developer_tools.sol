@@ -3,3 +3,4 @@
 // Optimize contract storage for gas reduction
 // Fix token transfer approval issues
 // Reduce gas cost in minting logic
+// Add dynamic contract fees
