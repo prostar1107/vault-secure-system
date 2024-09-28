@@ -3,3 +3,4 @@
 // Add support for multi-signature wallet contracts
 // Fix wallet interaction issues in DeFi protocols
 // Add batch transaction capabilities
+// Integrate zk-SNARKs for enhanced privacy
