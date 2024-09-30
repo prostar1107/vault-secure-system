@@ -4,3 +4,4 @@
 // Refactor wallet interaction logic
 // Refactor validator reward system
 // Refactor storage layout for better efficiency
+// Integrate Chainlink VRF for randomness
