@@ -13,3 +13,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Enhance contract event handling
 // Add multi-chain transaction support
+// Add multi-chain governance support
