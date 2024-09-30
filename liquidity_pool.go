@@ -4,3 +4,4 @@
 // Add new feature: on-chain governance
 // Add governance proposal expiration feature
 // Fix Oracle communication delay issues
+// Add support for decentralized insurance protocols
