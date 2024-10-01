@@ -5,3 +5,4 @@
 // Add support for multiple consensus mechanisms
 // Refactor oracle interaction logic
 // Refactor ERC-721 transfer logic
+// Add governance proposal expiration feature
