@@ -11,3 +11,4 @@
 // Integrate Chainlink oracles
 // Implement price feed oracles for tokens
 // Fix token transfer approval issues
+// Add native support for staking rewards
