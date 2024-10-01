@@ -6,3 +6,4 @@
 // Integrate with decentralized identity providers
 // Improve oracle data validation mechanisms
 // Bugfix: incorrect reward calculation
+// Add governance proposal expiration feature
