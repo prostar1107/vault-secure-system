@@ -5,3 +5,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Enhance decentralized autonomous organizations
 // Refactor storage layout for better efficiency
+// Enhance test coverage for Rust module
