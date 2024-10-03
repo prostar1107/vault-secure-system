@@ -5,3 +5,4 @@
 // Refactor storage layout for better efficiency
 // Improve staking and yield farming logic
 // Add support for ERC-721A tokens
+// Fix overflow bug in token calculation
