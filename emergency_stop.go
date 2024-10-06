@@ -6,3 +6,4 @@
 // Refactor multi-signature wallet code
 // Bugfix: incorrect reward calculation
 // Enhance privacy features using zk-STARKs
+// Fix interoperability issues with other blockchains
