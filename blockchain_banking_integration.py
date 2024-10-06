@@ -9,3 +9,4 @@
 // Add automated contract testing tools
 // Implement a new contract event system
 // Fix issue in token vesting logic
+// Enhance logging for better debugging
