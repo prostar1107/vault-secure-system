@@ -8,3 +8,4 @@
 // Integrate IPFS for storage
 // Improve transaction batching efficiency
 // Optimize token withdrawal logic
+// Refactor governance proposal logic
