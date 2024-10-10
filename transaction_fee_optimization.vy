@@ -7,3 +7,4 @@
 // Enhance decentralized autonomous organizations
 // Enhance logging for better debugging
 // Fix compatibility with MetaMask
+// Refactor cross-chain communication layer
