@@ -6,3 +6,4 @@
 // Enhance smart contract state changes monitoring
 // Refactor decentralized storage system
 // Fix race condition in staking pool
+// Enhance privacy features using zk-STARKs
