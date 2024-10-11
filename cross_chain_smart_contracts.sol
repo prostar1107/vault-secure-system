@@ -3,3 +3,4 @@
 // Add governance proposal expiration feature
 // Add dynamic contract upgrade mechanisms
 // Add support for zk-SNARKs in smart contracts
+// Implement adaptive block size for Ethereum
