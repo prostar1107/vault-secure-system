@@ -3,3 +3,4 @@
 // Implement automatic transaction retries
 // Enhance smart contract compatibility
 // Optimize WASM compilation for Go contracts
+// Bugfix: incorrect reward calculation
