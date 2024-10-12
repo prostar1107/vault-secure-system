@@ -4,3 +4,4 @@
 // Add support for delegation in governance
 // Refactor storage layout for better efficiency
 // Integrate multi-chain liquidity pools
+// Improve contract state management
