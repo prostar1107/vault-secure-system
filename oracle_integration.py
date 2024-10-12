@@ -3,3 +3,4 @@
 // Improve staking and yield farming logic
 // Integrate Chainlink oracles
 // Fix issues in multi-token smart contracts
+// Integrate with external DeFi protocols
