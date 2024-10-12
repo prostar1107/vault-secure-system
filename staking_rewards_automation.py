@@ -4,3 +4,4 @@
 // Integrate automated market maker (AMM) logic
 // Improve contract state management
 // Implement price feed oracles for tokens
+// Refactor contract state machine design
