@@ -5,3 +5,4 @@
 // Integrate with decentralized prediction markets
 // Improve smart contract code modularity
 // Add new feature: on-chain governance
+// Add gas optimization features for smart contracts
