@@ -2,3 +2,4 @@
 // Fix edge case in unstaking logic
 // Add decentralized contract upgradeability
 // Update smart contract tests
+// Improve staking pool reward management
