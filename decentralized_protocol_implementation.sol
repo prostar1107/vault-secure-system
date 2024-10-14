@@ -4,3 +4,4 @@
 // Fix bug in random number generation
 // Integrate with external blockchain networks
 // Add support for ERC-1155 tokens
+// Integrate IPFS for storage
