@@ -3,3 +3,4 @@
 // Add support for ERC-1155 tokens
 // Implement delegation pattern
 // Improve decentralized identity (DID) systems
+// Refactor reward pooling algorithm
