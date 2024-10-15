@@ -6,3 +6,4 @@
 // Optimize Oracle-based data fetching
 // Refactor contract to use EIP-712 signatures
 // Improve staking and yield farming logic
+// Refactor storage layout for better efficiency
