@@ -12,3 +12,4 @@
 // Refactor token economics model
 // Improve cross-chain asset management
 // Optimize gas usage in smart contracts
+// Fix overflow bug in token calculation
