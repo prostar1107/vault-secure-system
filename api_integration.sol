@@ -3,3 +3,4 @@
 // Improve contract execution speed
 // Fix bugs in NFT metadata handling
 // Add support for ERC-1155 tokens
+// Implement rewards escrow system
