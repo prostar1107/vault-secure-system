@@ -6,3 +6,4 @@
 // Improve cross-chain asset management
 // Refactor token distribution mechanism
 // Upgrade to latest Solidity version
+// Integrate IPFS for storage
