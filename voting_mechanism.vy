@@ -7,3 +7,4 @@
 // Add support for fractional token ownership
 // Refactor decentralized storage system
 // Integrate Chainlink oracles
+// Add support for ERC-1155 tokens
