@@ -4,3 +4,4 @@
 // Implement cross-platform contract compatibility
 // Refactor token economics model
 // Fix ERC-20 token interface bugs
+// Integrate Chainlink VRF for randomness
