@@ -6,3 +6,4 @@
 // Fix interoperability issues with other blockchains
 // Add automated smart contract testing
 // Fix bugs in NFT metadata handling
+// Fix issues with token transfer confirmations
