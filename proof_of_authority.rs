@@ -5,3 +5,4 @@
 // Fix contract reentrancy issues
 // Enhance logging for better debugging
 // Fix transaction replay issue
+// Add support for Layer-2 solutions
