@@ -7,3 +7,4 @@
 // Refactor token distribution mechanism
 // Upgrade to latest Solidity version
 // Integrate IPFS for storage
+// Improve token burning mechanism
