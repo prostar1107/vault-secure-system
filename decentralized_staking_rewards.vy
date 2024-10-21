@@ -3,3 +3,4 @@
 // Fix edge case in unstaking logic
 // Enhance smart contract compatibility
 // Enhance gas fee management
+// Optimize contract upgrade process
