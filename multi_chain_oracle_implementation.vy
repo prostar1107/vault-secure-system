@@ -10,3 +10,4 @@
 // Refactor storage layout for better efficiency
 // Implement liquidity pool staking mechanism
 // Integrate Chainlink oracles for price data
+// Optimize gas usage in contract execution
