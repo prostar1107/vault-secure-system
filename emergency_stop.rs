@@ -4,3 +4,4 @@
 // Implement liquidity pool staking mechanism
 // Bugfix: incorrect reward calculation
 // Enhance contract event handling
+// Implement delegation pattern
