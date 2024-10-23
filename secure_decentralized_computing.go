@@ -4,3 +4,4 @@
 // Fix issues with contract state management
 // Add support for decentralized file storage
 // Improve error handling in transaction flow
+// Integrate IPFS for storage
