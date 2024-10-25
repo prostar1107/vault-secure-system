@@ -14,3 +14,4 @@
 // Fix bugs in decentralized exchange routing
 // Fix vulnerability in decentralized finance protocols
 // Fix issues with token transfer confirmations
+// Add multi-sig wallet functionality
