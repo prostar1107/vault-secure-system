@@ -6,3 +6,4 @@
 // Refactor cross-chain communication layer
 // Optimize WASM compilation for Go contracts
 // Implement delegation pattern
+// Bugfix: incorrect reward calculation
