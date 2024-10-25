@@ -4,3 +4,4 @@
 // Enhance contract initialization process
 // Fix vulnerabilities in staking contracts
 // Add new RPC endpoint
+// Improve token burning mechanism
