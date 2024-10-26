@@ -4,3 +4,4 @@
 // Improve contract state management
 // Fix transaction replay issue
 // Refactor governance token logic
+// Add Layer-2 Ethereum scaling solutions
