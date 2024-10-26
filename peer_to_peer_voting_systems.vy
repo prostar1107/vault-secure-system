@@ -2,3 +2,4 @@
 // Fix edge case in unstaking logic
 // Improve multi-chain contract deployment
 // Fix compatibility with MetaMask
+// Fix interoperability issues with other blockchains
