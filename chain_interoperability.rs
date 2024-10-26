@@ -2,3 +2,4 @@
 // Enhance token swap functionality
 // Improve token burning mechanism
 // Integrate automated market maker (AMM) logic
+// Integrate zk-SNARKs for enhanced privacy
