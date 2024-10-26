@@ -7,3 +7,4 @@
 // Optimize WASM compilation for Go contracts
 // Implement delegation pattern
 // Bugfix: incorrect reward calculation
+// Fix issues in multi-token smart contracts
