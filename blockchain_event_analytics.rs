@@ -10,3 +10,4 @@
 // Fix transaction replay issue
 // Fix deserialization bug in Haskell code
 // Optimize contract upgrade process
+// Refactor contract event emission
