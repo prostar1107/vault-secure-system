@@ -4,3 +4,4 @@
 // Fix overflow bug in token calculation
 // Integrate with external blockchain networks
 // Reduce gas cost in minting logic
+// Optimize storage for off-chain data
