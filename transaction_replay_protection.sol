@@ -8,3 +8,4 @@
 // Implement time-locked contract execution
 // Add support for ERC-1155 tokens
 // Improve contract creation process
+// Add support for ERC-1155 tokens
