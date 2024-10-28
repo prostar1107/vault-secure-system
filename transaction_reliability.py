@@ -3,3 +3,4 @@
 // Fix issues in token transfer logic
 // Add support for decentralized file storage
 // Enhance contract upgrade process
+// Refactor contract to use EIP-712 signatures
