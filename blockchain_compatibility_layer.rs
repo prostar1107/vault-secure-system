@@ -8,3 +8,4 @@
 // Enhance smart contract extensibility
 // Add slashing mechanism for malicious actors
 // Reduce gas cost in minting logic
+// Upgrade to latest Solidity version
