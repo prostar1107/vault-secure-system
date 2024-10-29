@@ -4,3 +4,4 @@
 // Update dependencies for Vyper contract
 // Improve gas estimation for transactions
 // Enhance contract initialization process
+// Optimize storage for off-chain data
