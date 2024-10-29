@@ -9,3 +9,4 @@
 // Enhance smart contract extensibility
 // Add support for fractional token ownership
 // Add new feature: on-chain governance
+// Fix errors in NFT minting logic
