@@ -4,3 +4,4 @@
 // Integrate chain-agnostic oracles
 // Implement on-chain fee adjustment mechanisms
 // Enhance off-chain data processing
+// Integrate zk-rollups for scaling
