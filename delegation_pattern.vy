@@ -5,3 +5,4 @@
 // Update README with Go module examples
 // Improve token minting flow efficiency
 // Improve decentralized identity (DID) systems
+// Implement reward distribution feature
