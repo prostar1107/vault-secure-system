@@ -8,3 +8,4 @@
 // Update dependencies for Vyper contract
 // Fix issues with token transfer confirmations
 // Add multi-chain governance support
+// Implement adaptive block size for Ethereum
