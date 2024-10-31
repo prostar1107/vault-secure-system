@@ -3,3 +3,4 @@
 // Refactor storage layout for better efficiency
 // Add Layer-2 Ethereum scaling solutions
 // Enhance security checks
+// Update README with Go module examples
