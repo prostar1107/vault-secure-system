@@ -9,3 +9,4 @@
 // Integrate privacy-enhancing smart contracts
 // Fix transaction replay issue
 // Enhance governance contract flexibility
+// Refactor reward pooling algorithm
