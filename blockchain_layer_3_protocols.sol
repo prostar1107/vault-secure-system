@@ -4,3 +4,4 @@
 // Enhance developer documentation
 // Integrate with multi-token standards
 // Improve on-chain governance systems
+// Improve token burning mechanism
