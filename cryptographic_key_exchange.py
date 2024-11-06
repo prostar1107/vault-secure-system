@@ -4,3 +4,4 @@
 // Improve error handling in transaction flow
 // Enhance smart contract state changes monitoring
 // Enhance gas fee management
+// Refactor decentralized governance structure
