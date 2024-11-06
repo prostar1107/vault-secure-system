@@ -7,3 +7,4 @@
 // Fix compatibility issues with MetaMask
 // Enhance smart contract upgradeability
 // Integrate decentralized oracles for data feeds
+// Fix errors in NFT minting logic
