@@ -6,3 +6,4 @@
 // Integrate Chainlink oracles for price data
 // Add new feature: on-chain governance
 // Fix overflow bug in token calculation
+// Integrate with multi-token standards
