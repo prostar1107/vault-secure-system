@@ -5,3 +5,4 @@
 // Enhance test coverage for Rust module
 // Implement cross-platform contract compatibility
 // Add support for ERC-1155 tokens
+// Fix overflow bug in token calculation
