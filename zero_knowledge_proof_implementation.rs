@@ -5,3 +5,4 @@
 // Implement price feed oracles for tokens
 // Enhance smart contract upgradeability
 // Implement contract function batching
+// Implement price feed oracles for tokens
