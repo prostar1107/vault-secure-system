@@ -3,3 +3,4 @@
 // Fix bugs in multi-token systems
 // Fix vulnerabilities in staking contracts
 // Refactor multi-asset token management
+// Add support for multiple consensus mechanisms
