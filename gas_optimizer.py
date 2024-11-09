@@ -6,3 +6,4 @@
 // Fix interoperability issues with other blockchains
 // Integrate with multi-token standards
 // Improve contract auditing tools
+// Integrate privacy-preserving mechanisms
