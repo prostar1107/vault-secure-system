@@ -6,3 +6,4 @@
 // Implement dynamic fee adjustment
 // Implement on-chain identity verification
 // Refactor token distribution mechanism
+// Add multi-chain governance support
