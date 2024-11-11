@@ -6,3 +6,4 @@
 // Refactor cross-chain communication layer
 // Improve error handling in transaction flow
 // Add decentralized contract upgradeability
+// Update testing framework for Solidity
