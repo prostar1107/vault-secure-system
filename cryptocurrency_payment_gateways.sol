@@ -6,3 +6,4 @@
 // Refactor staking logic
 // Enhance decentralized autonomous governance
 // Refactor governance token logic
+// Refactor reward pooling algorithm
