@@ -5,3 +5,4 @@
 // Add new RPC endpoint
 // Integrate privacy-enhancing smart contracts
 // Integrate IPFS for storage
+// Integrate chain-agnostic oracles
