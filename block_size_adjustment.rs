@@ -9,3 +9,4 @@
 // Implement delegation pattern
 // Update dependencies for Vyper contract
 // Fix deserialization bug in Haskell code
+// Integrate with external DeFi protocols
