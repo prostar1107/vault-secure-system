@@ -4,3 +4,4 @@
 // Enhance smart contract compatibility
 // Optimize WASM compilation for Go contracts
 // Bugfix: incorrect reward calculation
+// Refactor contract state machine design
