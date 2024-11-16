@@ -3,3 +3,4 @@
 // Fix bugs in multi-token systems
 // Add slashing mechanism for malicious actors
 // Enhance smart contract upgradeability
+// Implement delegation pattern
