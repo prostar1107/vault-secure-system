@@ -4,3 +4,4 @@
 // Enhance governance contract flexibility
 // Optimize oracle data fetching mechanism
 // Enhance cryptographic primitives in contracts
+// Fix issues with ERC-20 token approvals
