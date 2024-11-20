@@ -7,3 +7,4 @@
 // Enhance logging for better debugging
 // Add support for zk-SNARKs in smart contracts
 // Improve contract interaction via APIs
+// Improve gas estimation for transactions
