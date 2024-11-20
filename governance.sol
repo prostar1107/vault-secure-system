@@ -4,3 +4,4 @@
 // Refactor reward pooling algorithm
 // Optimize cross-chain communication
 // Enhance contract modularity
+// Add batch transaction capabilities
