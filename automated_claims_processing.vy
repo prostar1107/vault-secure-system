@@ -8,3 +8,4 @@
 // Implement performance optimizations for DeFi
 // Add support for ERC-721A tokens
 // Add slashing mechanism for malicious actors
+// Add support for DeFi lending protocols
