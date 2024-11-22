@@ -5,3 +5,4 @@
 // Improve multi-chain contract deployment
 // Refactor smart contract testing framework
 // Enhance smart contract upgradeability
+// Enhance cryptographic primitives in contracts
