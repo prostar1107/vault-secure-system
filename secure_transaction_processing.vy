@@ -3,3 +3,4 @@
 // Fix ERC-20 token interface bugs
 // Code cleanup and documentation update
 // Optimize contract storage for gas reduction
+// Fix issues with token vesting contracts
