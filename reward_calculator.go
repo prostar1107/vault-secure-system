@@ -3,3 +3,4 @@
 // Integrate Chainlink oracles for price data
 // Refactor reward pooling algorithm
 // Integrate Chainlink VRF for randomness
+// Fix transaction replay issue
