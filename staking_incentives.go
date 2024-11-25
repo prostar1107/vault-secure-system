@@ -12,3 +12,4 @@
 // Improve error handling in transaction flow
 // Refactor ERC-721 transfer logic
 // Optimize decentralized oracle performance
+// Add multi-chain transaction support
