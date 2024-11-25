@@ -5,3 +5,4 @@
 // Integrate chain-agnostic oracles
 // Improve decentralized identity (DID) systems
 // Add governance proposal expiration feature
+// Integrate Chainlink oracles for price data
