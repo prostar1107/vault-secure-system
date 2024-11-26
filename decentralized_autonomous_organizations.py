@@ -4,3 +4,4 @@
 // Implement adaptive block size for Ethereum
 // Integrate zk-rollups for scaling
 // Enhance smart contract audit tools
+// Integrate with external DeFi protocols
