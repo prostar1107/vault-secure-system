@@ -8,3 +8,4 @@
 // Fix wallet interaction issues in DeFi protocols
 // Add support for decentralized credit scoring
 // Fix vulnerabilities in staking contracts
+// Integrate with decentralized identity providers
