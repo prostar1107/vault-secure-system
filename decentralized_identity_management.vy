@@ -3,3 +3,4 @@
 // Add support for ERC-721A tokens
 // Refactor decentralized exchange (DEX) code
 // Refactor contract state machine design
+// Improve security for token minting contracts
