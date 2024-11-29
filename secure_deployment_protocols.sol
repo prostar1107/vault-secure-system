@@ -4,3 +4,4 @@
 // Add decentralized contract upgradeability
 // Improve contract auditing tools
 // Fix issue in ERC-20 token transfers
+// Add support for multi-signature wallet contracts
