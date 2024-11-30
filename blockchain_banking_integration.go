@@ -7,3 +7,4 @@
 // Implement on-chain identity verification
 // Refactor token distribution mechanism
 // Add multi-chain governance support
+// Refactor storage layout for better efficiency
