@@ -3,3 +3,4 @@
 // Refactor staking logic
 // Improve contract execution performance
 // Improve contract execution speed
+// Add support for decentralized file storage
