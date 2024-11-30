@@ -8,3 +8,4 @@
 // Improve security for token minting contracts
 // Integrate with decentralized storage systems
 // Optimize proof-of-stake validation
+// Improve decentralized identity (DID) systems
