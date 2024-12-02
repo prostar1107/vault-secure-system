@@ -5,3 +5,4 @@
 // Integrate zk-rollups for scaling
 // Enhance smart contract audit tools
 // Integrate with external DeFi protocols
+// Add support for cross-chain bridges
