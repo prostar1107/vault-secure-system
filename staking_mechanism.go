@@ -6,3 +6,4 @@
 // Enhance contract initialization process
 // Optimize storage for off-chain data
 // Enhance test coverage for Rust module
+// Improve staking logic for better rewards
