@@ -7,3 +7,4 @@
 // Optimize WASM compilation for Go contracts
 // Improve token burning mechanism
 // Implement delegation pattern
+// Fix compatibility issues with MetaMask
