@@ -9,3 +9,4 @@
 // Add support for decentralized credit scoring
 // Fix vulnerabilities in staking contracts
 // Integrate with decentralized identity providers
+// Add automated smart contract testing
