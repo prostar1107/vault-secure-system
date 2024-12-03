@@ -4,3 +4,4 @@
 // Add support for ERC-1155 tokens
 // Fix transaction replay issue
 // Fix issue in ERC-20 token transfers
+// Fix race condition in staking pool
