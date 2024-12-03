@@ -7,3 +7,4 @@
 // Improve staking and yield farming logic
 // Implement emergency stop mechanism
 // Fix issues with ERC-20 token approvals
+// Integrate privacy-preserving mechanisms
