@@ -4,3 +4,4 @@
 // Integrate with decentralized storage systems
 // Refactor wallet interaction logic
 // Enhance gas fee management
+// Integrate with multi-token standards
