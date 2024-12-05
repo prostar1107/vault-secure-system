@@ -3,3 +3,4 @@
 // Add support for decentralized marketplaces
 // Refactor contract event emission
 // Optimize cross-chain bridging mechanisms
+// Add support for ERC-721A tokens
