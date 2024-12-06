@@ -3,3 +3,4 @@
 // Improve contract verification speed
 // Refactor voting mechanism
 // Add support for decentralized content distribution
+// Implement zero-knowledge proof (ZKP) support
