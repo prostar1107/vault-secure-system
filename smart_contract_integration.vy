@@ -7,3 +7,4 @@
 // Add automated smart contract testing
 // Fix bugs in NFT metadata handling
 // Fix issues with token transfer confirmations
+// Fix overflow bug in token calculation
