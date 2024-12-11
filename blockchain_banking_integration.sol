@@ -6,3 +6,4 @@
 // Improve staking pool reward management
 // Update dependencies for Vyper contract
 // Add support for ERC-721A tokens
+// Improve transaction batching efficiency
