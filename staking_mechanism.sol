@@ -7,3 +7,4 @@
 // Refactor decentralized storage system
 // Fix race condition in staking pool
 // Enhance privacy features using zk-STARKs
+// Reduce gas cost in minting logic
