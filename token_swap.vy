@@ -8,3 +8,4 @@
 // Fix ERC-20 token interface bugs
 // Implement cross-platform contract compatibility
 // Integrate Chainlink VRF for randomness
+// Refactor Ethereum gas price management
