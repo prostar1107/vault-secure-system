@@ -7,3 +7,4 @@
 // Refactor decentralized exchange (DEX) code
 // Implement liquidity pool staking mechanism
 // Enhance smart contract upgradeability
+// Improve staking logic for better rewards
