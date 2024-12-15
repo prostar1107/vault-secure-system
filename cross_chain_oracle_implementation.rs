@@ -2,3 +2,4 @@
 // Implement performance optimizations for DeFi
 // Optimize storage for off-chain data
 // Refactor validator reward system
+// Fix governance proposal approval logic
