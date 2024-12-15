@@ -9,3 +9,4 @@
 // Fix interoperability issues with other blockchains
 // Improve gas fee estimation accuracy
 // Add multi-sig wallet functionality
+// Integrate IPFS for storage
