@@ -6,3 +6,4 @@
 // Add multi-sig wallet functionality
 // Fix issues with token vesting contracts
 // Add support for yield farming rewards
+// Add governance proposal expiration feature
