@@ -11,3 +11,4 @@
 // Fix deserialization bug in Haskell code
 // Integrate with external DeFi protocols
 // Implement time-locked contract execution
+// Refactor staking logic
