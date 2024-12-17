@@ -4,3 +4,4 @@
 // Add fallback mechanism in Solidity contract
 // Add support for ERC-1155 tokens
 // Fix scalability issues with smart contracts
+// Integrate Chainlink oracles for price data
