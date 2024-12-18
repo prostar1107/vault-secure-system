@@ -4,3 +4,4 @@
 // Update README with Go module examples
 // Improve staking pool reward management
 // Fix deserialization bug in Haskell code
+// Enhance logging for better debugging
