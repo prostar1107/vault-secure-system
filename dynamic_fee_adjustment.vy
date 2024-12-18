@@ -6,3 +6,4 @@
 // Refactor governance proposal logic
 // Refactor staking logic
 // Refactor voting mechanism
+// Add support for DeFi lending protocols
