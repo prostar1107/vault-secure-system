@@ -9,3 +9,4 @@
 // Reduce gas cost in minting logic
 // Improve contract state management
 // Improve contract execution performance
+// Add support for decentralized insurance protocols
