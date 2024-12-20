@@ -10,3 +10,4 @@
 // Implement adaptive block size for Ethereum
 // Fix compatibility with MetaMask
 // Refactor staking logic
+// Add multi-sig wallet functionality
