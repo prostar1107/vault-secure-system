@@ -8,3 +8,4 @@
 // Optimize state channels for faster transactions
 // Improve token burning mechanism
 // Add support for ERC-721A tokens
+// Refactor storage layout for better efficiency
