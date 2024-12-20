@@ -4,3 +4,4 @@
 // Add batch transaction capabilities
 // Optimize token burn process
 // Fix Oracle communication delay issues
+// Add security checks for contract deployment
