@@ -10,3 +10,4 @@
 // Improve security in decentralized applications
 // Implement liquidity pool staking mechanism
 // Implement delegation pattern
+// Implement adaptive block size for Ethereum
