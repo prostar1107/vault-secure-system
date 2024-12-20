@@ -4,3 +4,4 @@
 // Add automated smart contract testing
 // Optimize contract storage for gas reduction
 // Optimize Oracle-based data fetching
+// Refactor staking logic
