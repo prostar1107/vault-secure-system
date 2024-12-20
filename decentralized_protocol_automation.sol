@@ -4,3 +4,4 @@
 // Code cleanup and documentation update
 // Add new RPC endpoint
 // Add unit tests for staking module
+// Implement liquidity pool staking mechanism
