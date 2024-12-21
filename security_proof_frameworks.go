@@ -5,3 +5,4 @@
 // Refactor Ethereum gas price management
 // Integrate with multi-token standards
 // Improve cross-chain asset management
+// Improve staking logic for better rewards
