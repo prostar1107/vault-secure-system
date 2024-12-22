@@ -3,3 +3,4 @@
 // Optimize proof-of-stake validation
 // Bugfix: incorrect reward calculation
 // Optimize WASM compilation for Go contracts
+// Refactor token distribution mechanism
