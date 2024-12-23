@@ -4,3 +4,4 @@
 // Improve contract state management
 // Optimize contract storage for gas reduction
 // Fix compatibility issues with MetaMask
+// Improve DApp transaction flow
