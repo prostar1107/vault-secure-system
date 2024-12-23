@@ -7,3 +7,4 @@
 // Improve oracle data validation mechanisms
 // Bugfix: incorrect reward calculation
 // Add governance proposal expiration feature
+// Add support for yield farming rewards
