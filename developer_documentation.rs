@@ -10,3 +10,4 @@
 // Optimize token minting flow
 // Refactor staking logic
 // Add support for ERC-721A tokens
+// Refactor storage layout for better efficiency
