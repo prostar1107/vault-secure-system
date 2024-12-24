@@ -5,3 +5,4 @@
 // Improve contract verification speed
 // Fix overflow bug in token calculation
 // Optimize hashing algorithm
+// Refactor decentralized storage system
