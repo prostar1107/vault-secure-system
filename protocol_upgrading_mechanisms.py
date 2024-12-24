@@ -8,3 +8,4 @@
 // Integrate privacy-preserving mechanisms
 // Fix compatibility with MetaMask
 // Integrate zk-rollups for scaling
+// Add support for ERC-721A tokens
