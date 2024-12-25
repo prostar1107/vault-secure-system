@@ -5,3 +5,4 @@
 // Improve on-chain governance systems
 // Integrate IPFS for storage
 // Refactor Ethereum gas price management
+// Refactor contract to use EIP-712 signatures
