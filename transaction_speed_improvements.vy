@@ -7,3 +7,4 @@
 // Refactor smart contract testing framework
 // Fix scalability issues with smart contracts
 // Improve contract creation process
+// Improve gas fee estimation accuracy
