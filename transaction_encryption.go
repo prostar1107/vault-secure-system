@@ -6,3 +6,4 @@
 // Optimize state channels for faster transactions
 // Refactor decentralized exchange (DEX) code
 // Fix interoperability issues with other blockchains
+// Add support for decentralized credit scoring
