@@ -4,3 +4,4 @@
 // Fix contract reentrancy issues
 // Improve on-chain governance systems
 // Integrate IPFS for storage
+// Refactor Ethereum gas price management
