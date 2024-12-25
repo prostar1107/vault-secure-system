@@ -4,3 +4,4 @@
 // Enhance contract modularity
 // Add new RPC endpoint
 // Integrate zk-rollups for scaling
+// Integrate zk-SNARKs for enhanced privacy
