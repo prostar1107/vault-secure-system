@@ -4,3 +4,4 @@
 // Integrate with decentralized storage systems
 // Add batch transaction capabilities
 // Optimize token minting flow
+// Add multi-sig wallet functionality
