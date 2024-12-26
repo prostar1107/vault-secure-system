@@ -4,3 +4,4 @@
 // Add support for ERC-1155 tokens
 // Update dependencies for Vyper contract
 // Integrate Chainlink VRF for randomness
+// Improve decentralized exchange (DEX) liquidity
