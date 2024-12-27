@@ -3,3 +3,4 @@
 // Integrate IPFS for storage
 // Integrate flash loan functionality
 // Improve staking pool reward management
+// Fix interoperability issues with other blockchains
