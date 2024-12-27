@@ -6,3 +6,4 @@
 // Add support for decentralized file storage
 // Add automated contract testing tools
 // Enhance gas fee management
+// Enhance privacy features using zk-STARKs
