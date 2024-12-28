@@ -5,3 +5,4 @@
 // Refactor contract state machine design
 // Implement zero-knowledge proof (ZKP) support
 // Improve contract interaction via APIs
+// Fix scalability issues with smart contracts
