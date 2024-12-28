@@ -8,3 +8,4 @@
 // Add support for DeFi lending protocols
 // Fix issues with cross-chain transaction finality
 // Improve contract verification speed
+// Fix issues with token transfer confirmations
