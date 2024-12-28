@@ -3,3 +3,4 @@
 // Refactor oracle interaction logic
 // Improve on-chain governance systems
 // Add support for decentralized file storage
+// Fix vulnerabilities in staking contracts
