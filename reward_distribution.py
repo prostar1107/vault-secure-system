@@ -4,3 +4,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Improve contract execution speed
 // Fix compatibility issues with MetaMask
+// Update README with Go module examples
