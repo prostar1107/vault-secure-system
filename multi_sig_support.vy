@@ -17,3 +17,4 @@
 // Optimize token withdrawal logic
 // Enhance contract event handling
 // Improve security in decentralized applications
+// Refactor contract to use EIP-712 signatures
