@@ -11,3 +11,4 @@
 // Integrate with multi-token standards
 // Integrate IPFS for storage
 // Enhance gas fee management
+// Fix bugs in NFT metadata handling
