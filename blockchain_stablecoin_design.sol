@@ -5,3 +5,4 @@
 // Integrate with decentralized prediction markets
 // Optimize oracle data fetching mechanism
 // Optimize oracle data fetching mechanism
+// Optimize decentralized voting mechanisms
