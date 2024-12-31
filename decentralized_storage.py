@@ -4,3 +4,4 @@
 // Enhance governance contract flexibility
 // Improve token minting flow efficiency
 // Enhance logging for better debugging
+// Refactor incentive structure in DeFi protocol
