@@ -4,3 +4,4 @@
 // Add slashing mechanism for malicious actors
 // Enhance smart contract upgradeability
 // Implement delegation pattern
+// Add support for decentralized marketplaces
