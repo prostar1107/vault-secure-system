@@ -8,3 +8,4 @@
 // Enhance privacy features using zk-STARKs
 // Integrate multi-chain liquidity pools
 // Improve contract auditing tools
+// Implement cross-chain bridge
