@@ -9,3 +9,4 @@
 // Add support for ERC-1155 tokens
 // Improve contract creation process
 // Add support for ERC-1155 tokens
+// Fix compatibility issues with major wallets
