@@ -5,3 +5,4 @@
 // Add non-fungible token (NFT) support
 // Integrate IPFS for storage
 // Fix vulnerabilities in staking contracts
+// Enhance governance contract flexibility
