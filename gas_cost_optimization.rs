@@ -6,3 +6,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Improve contract interaction via APIs
 // Fix scalability issues with smart contracts
+// Refactor Ethereum gas price management
