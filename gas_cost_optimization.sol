@@ -10,3 +10,4 @@
 // Add support for decentralized insurance protocols
 // Add unit tests for staking module
 // Optimize cross-chain communication
+// Add support for NFT marketplaces
