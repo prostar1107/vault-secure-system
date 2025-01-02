@@ -2,3 +2,4 @@
 // Improve contract auditing tools
 // Improve DApp transaction flow
 // Refactor voting mechanism
+// Improve contract modularity
