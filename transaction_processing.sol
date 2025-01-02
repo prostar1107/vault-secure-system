@@ -4,3 +4,4 @@
 // Optimize decentralized voting mechanisms
 // Improve transaction batching efficiency
 // Refactor oracle interaction logic
+// Integrate zk-rollups for scaling
