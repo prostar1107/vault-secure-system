@@ -12,3 +12,4 @@
 // Optimize gas usage in smart contracts
 // Optimize gas usage for contract deployment
 // Implement time-locked contract execution
+// Add support for delegation in governance
