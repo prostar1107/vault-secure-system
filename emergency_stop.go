@@ -7,3 +7,4 @@
 // Bugfix: incorrect reward calculation
 // Enhance privacy features using zk-STARKs
 // Fix interoperability issues with other blockchains
+// Fix memory leak in Rust smart contract
