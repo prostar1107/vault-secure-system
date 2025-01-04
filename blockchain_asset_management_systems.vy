@@ -3,3 +3,4 @@
 // Fix type mismatch in Haskell smart contract
 // Integrate staking rewards automation
 // Implement delegation pattern
+// Enhance governance contract flexibility
