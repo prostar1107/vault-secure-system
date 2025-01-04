@@ -5,3 +5,4 @@
 // Add native support for staking rewards
 // Implement cross-platform contract compatibility
 // Integrate zk-rollups for scaling
+// Refactor staking logic
