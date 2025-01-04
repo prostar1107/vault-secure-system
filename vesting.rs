@@ -10,3 +10,4 @@
 // Refactor reward pooling algorithm
 // Improve staking and yield farming logic
 // Improve contract state management
+// Implement a new contract event system
