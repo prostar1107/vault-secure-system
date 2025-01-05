@@ -6,3 +6,4 @@
 // Optimize gas cost in function execution
 // Add support for ERC-1155 tokens
 // Implement decentralized arbitration in contracts
+// Improve staking pool reward management
