@@ -6,3 +6,4 @@
 // Add support for decentralized file storage
 // Improve API rate limiting
 // Add gas optimization features for smart contracts
+// Fix compatibility with MetaMask
