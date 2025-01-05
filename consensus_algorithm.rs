@@ -8,3 +8,4 @@
 // Implement liquidity pool staking mechanism
 // Enhance smart contract upgradeability
 // Improve staking logic for better rewards
+// Add support for zk-SNARKs in smart contracts
