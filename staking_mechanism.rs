@@ -7,3 +7,4 @@
 // Improve contract modularity
 // Add security checks for contract deployment
 // Add new feature: on-chain governance
+// Add support for ERC-1155 tokens
