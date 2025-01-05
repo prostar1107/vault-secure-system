@@ -5,3 +5,4 @@
 // Add support for yield farming rewards
 // Enhance smart contract compatibility
 // Implement automatic transaction retries
+// Bugfix: incorrect reward calculation
