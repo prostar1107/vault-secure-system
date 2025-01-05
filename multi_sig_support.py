@@ -10,3 +10,4 @@
 // Fix issue with multi-chain transactions
 // Implement adaptive block size for Ethereum
 // Fix scalability issues with smart contracts
+// Add non-fungible token (NFT) support
