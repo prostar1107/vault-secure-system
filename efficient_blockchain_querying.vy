@@ -3,3 +3,4 @@
 // Refactor voting mechanism
 // Add automated contract testing tools
 // Improve DApp transaction flow
+// Improve error handling in transaction flow
