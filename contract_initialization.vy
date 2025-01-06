@@ -6,3 +6,4 @@
 // Add support for multi-signature wallet contracts
 // Implement price feed oracles for tokens
 // Add Layer-2 Ethereum scaling solutions
+// Add support for DeFi lending protocols
