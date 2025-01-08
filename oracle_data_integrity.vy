@@ -4,3 +4,4 @@
 // Fix overflow bug in token calculation
 // Refactor staking logic
 // Fix contract reentrancy issues
+// Enhance governance contract flexibility
