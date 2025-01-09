@@ -6,3 +6,4 @@
 // Integrate automated market maker (AMM) logic
 // Fix security vulnerability in random number generation
 // Enhance contract upgrade mechanism
+// Implement on-chain identity verification
