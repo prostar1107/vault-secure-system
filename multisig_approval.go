@@ -3,3 +3,4 @@
 // Optimize token minting flow
 // Add support for zk-SNARKs in smart contracts
 // Fix compatibility issues with MetaMask
+// Add new RPC endpoint
