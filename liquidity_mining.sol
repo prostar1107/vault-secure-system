@@ -5,3 +5,4 @@
 // Optimize WASM compilation for Go contracts
 // Bugfix: incorrect reward calculation
 // Refactor contract state machine design
+// Add Layer-2 Ethereum scaling solutions
