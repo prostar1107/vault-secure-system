@@ -3,3 +3,4 @@
 // Improve contract state management
 // Fix deserialization bug in Haskell code
 // Refactor token economics model
+// Add multi-chain transaction support
