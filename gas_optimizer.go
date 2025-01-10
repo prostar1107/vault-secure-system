@@ -7,3 +7,4 @@
 // Fix wallet interaction issues in DeFi protocols
 // Enhance smart contract state changes monitoring
 // Improve gas estimation for transactions
+// Refactor staking logic
