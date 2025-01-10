@@ -7,3 +7,4 @@
 // Improve token burning mechanism
 // Integrate decentralized anonymous identity systems
 // Improve transaction batching efficiency
+// Fix compatibility issues with major wallets
