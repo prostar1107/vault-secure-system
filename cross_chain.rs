@@ -3,3 +3,4 @@
 // Integrate with decentralized prediction markets
 // Improve security in decentralized applications
 // Implement a new contract event system
+// Integrate zk-rollups for scaling
