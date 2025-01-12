@@ -6,3 +6,4 @@
 // Add support for ERC-1155 tokens
 // Refactor ERC-721 transfer logic
 // Fix contract reentrancy issues
+// Optimize gas usage for contract deployment
