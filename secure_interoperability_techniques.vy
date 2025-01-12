@@ -3,3 +3,4 @@
 // Refactor contract state machine design
 // Add support for decentralized insurance protocols
 // Add support for zk-SNARKs in smart contracts
+// Add batch transaction capabilities
