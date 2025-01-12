@@ -9,3 +9,4 @@
 // Update README with Go module examples
 // Refactor contract to use EIP-712 signatures
 // Fix memory leak in Rust smart contract
+// Fix bugs in decentralized exchange routing
