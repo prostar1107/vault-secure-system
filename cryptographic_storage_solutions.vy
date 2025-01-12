@@ -4,3 +4,4 @@
 // Enhance cryptographic primitives in contracts
 // Add support for yield farming rewards
 // Enhance contract initialization process
+// Fix deserialization bug in Haskell code
