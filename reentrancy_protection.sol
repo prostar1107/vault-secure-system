@@ -2,3 +2,4 @@
 // Refactor storage layout for better efficiency
 // Improve decentralized lending contract flexibility
 // Improve contract execution performance
+// Add support for decentralized lending platforms
