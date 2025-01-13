@@ -7,3 +7,4 @@
 // Add support for ERC-1155 tokens
 // Implement decentralized arbitration in contracts
 // Improve staking pool reward management
+// Implement cross-platform contract compatibility
