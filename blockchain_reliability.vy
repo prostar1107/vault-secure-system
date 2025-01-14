@@ -4,3 +4,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Fix issues with contract state management
 // Improve contract state management
+// Fix issue with multi-chain transactions
