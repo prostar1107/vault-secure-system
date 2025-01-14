@@ -7,3 +7,4 @@
 // Fix oracle data delays in decentralized apps
 // Update README with Go module examples
 // Fix edge case in unstaking logic
+// Add support for decentralized credit scoring
