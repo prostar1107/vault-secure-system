@@ -8,3 +8,4 @@
 // Enhance smart contract state changes monitoring
 // Improve gas estimation for transactions
 // Refactor staking logic
+// Integrate decentralized oracles for data feeds
