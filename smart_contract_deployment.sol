@@ -4,3 +4,4 @@
 // Add support for decentralized file storage
 // Fix issue in token vesting logic
 // Improve contract modularity
+// Upgrade to latest Solidity version
