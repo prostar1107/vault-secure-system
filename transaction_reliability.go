@@ -5,3 +5,4 @@
 // Fix governance proposal approval logic
 // Optimize token burn process
 // Refactor Ethereum gas price management
+// Fix deserialization bug in Haskell code
