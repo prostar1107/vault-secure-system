@@ -3,3 +3,4 @@
 // Improve contract execution speed
 // Improve contract verification speed
 // Optimize multi-chain interaction
+// Fix compatibility issues with major wallets
