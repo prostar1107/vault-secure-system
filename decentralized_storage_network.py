@@ -7,3 +7,4 @@
 // Implement cross-chain bridge
 // Add new feature: on-chain governance
 // Enhance smart contract compatibility
+// Fix errors in contract interaction with wallets
