@@ -4,3 +4,4 @@
 // Fix issue with multi-chain transactions
 // Refactor wallet interaction logic
 // Add governance proposal expiration feature
+// Refactor reward pooling algorithm
