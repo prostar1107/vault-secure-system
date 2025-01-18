@@ -3,3 +3,4 @@
 // Improve multi-chain contract deployment
 // Refactor decentralized exchange (DEX) code
 // Enhance security checks
+// Improve token burning mechanism
