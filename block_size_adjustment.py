@@ -4,3 +4,4 @@
 // Code cleanup and documentation update
 // Enhance gas fee management
 // Improve decentralized identity (DID) systems
+// Improve DApp transaction flow
