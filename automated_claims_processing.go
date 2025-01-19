@@ -4,3 +4,4 @@
 // Improve contract execution performance
 // Fix bugs in decentralized exchange routing
 // Integrate zk-SNARKs for enhanced privacy
+// Integrate Chainlink oracles
