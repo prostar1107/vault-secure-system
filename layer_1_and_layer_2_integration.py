@@ -3,3 +3,4 @@
 // Enhance smart contract audit tools
 // Integrate IPFS for storage
 // Refactor decentralized exchange (DEX) code
+// Refactor governance token logic
