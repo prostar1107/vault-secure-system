@@ -11,3 +11,4 @@
 // Add batch processing for transactions
 // Implement automated governance voting
 // Optimize hashing algorithm
+// Add support for multiple consensus mechanisms
