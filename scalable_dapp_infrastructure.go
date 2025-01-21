@@ -5,3 +5,4 @@
 // Refactor wallet interaction logic
 // Enhance gas fee management
 // Integrate with multi-token standards
+// Add support for batch transaction processing
