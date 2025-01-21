@@ -4,3 +4,4 @@
 // Improve contract execution speed
 // Improve contract auditing tools
 // Integrate IPFS for storage
+// Integrate IPFS for storage
