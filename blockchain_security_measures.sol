@@ -3,3 +3,4 @@
 // Add new RPC endpoint
 // Integrate decentralized oracles for data feeds
 // Integrate Chainlink VRF for randomness
+// Enhance contract modularity for future upgrades
