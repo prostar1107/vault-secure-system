@@ -4,3 +4,4 @@
 // Optimize gas cost in function execution
 // Refactor wallet interaction logic
 // Integrate zk-SNARKs for enhanced privacy
+// Bugfix: incorrect reward calculation
