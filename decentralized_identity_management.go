@@ -5,3 +5,4 @@
 // Refactor wallet interaction logic
 // Integrate zk-SNARKs for enhanced privacy
 // Bugfix: incorrect reward calculation
+// Optimize state channels for faster transactions
