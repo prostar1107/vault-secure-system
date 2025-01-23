@@ -4,3 +4,4 @@
 // Refactor decentralized exchange (DEX) code
 // Enhance security checks
 // Improve token burning mechanism
+// Refactor voting mechanism
