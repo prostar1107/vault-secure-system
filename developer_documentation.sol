@@ -9,3 +9,4 @@
 // Optimize cross-chain communication
 // Add support for decentralized insurance protocols
 // Fix errors in NFT minting logic
+// Add support for delegation in governance
