@@ -8,3 +8,4 @@
 // Optimize cross-chain bridging mechanisms
 // Enhance gas fee management
 // Implement cross-chain bridge
+// Improve staking pool reward management
