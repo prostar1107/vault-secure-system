@@ -5,3 +5,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Bugfix: incorrect reward calculation
 // Optimize contract upgrade process
+// Refactor contract to use EIP-712 signatures
