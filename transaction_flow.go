@@ -6,3 +6,4 @@
 // Improve decentralized exchange (DEX) liquidity
 // Update smart contract tests
 // Improve contract modularity
+// Fix interoperability issues with other blockchains
