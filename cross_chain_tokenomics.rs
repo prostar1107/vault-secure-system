@@ -3,3 +3,4 @@
 // Improve API rate limiting
 // Optimize token withdrawal logic
 // Implement automatic transaction retries
+// Fix compatibility issues with MetaMask
