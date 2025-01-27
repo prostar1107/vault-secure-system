@@ -8,3 +8,4 @@
 // Fix Oracle communication delay issues
 // Enhance gas fee management
 // Improve smart contract code modularity
+// Add support for multiple consensus mechanisms
