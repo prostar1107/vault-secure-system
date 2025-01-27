@@ -4,3 +4,4 @@
 // Update dependencies for Vyper contract
 // Fix contract reentrancy issues
 // Integrate Chainlink oracles
+// Refactor reward pooling algorithm
