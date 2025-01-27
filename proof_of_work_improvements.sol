@@ -5,3 +5,4 @@
 // Refactor incentive structure in DeFi protocol
 // Enhance decentralized autonomous governance
 // Refactor token distribution mechanism
+// Add support for decentralized insurance protocols
