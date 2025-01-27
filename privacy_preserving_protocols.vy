@@ -6,3 +6,4 @@
 // Implement contract function batching
 // Fix bugs in NFT metadata handling
 // Fix governance proposal approval logic
+// Add unit tests for staking module
