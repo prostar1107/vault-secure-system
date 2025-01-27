@@ -6,3 +6,4 @@
 // Refactor voting mechanism
 // Add support for zk-SNARKs in smart contracts
 // Improve contract execution speed
+// Enhance test coverage for Rust module
