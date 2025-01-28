@@ -3,3 +3,4 @@
 // Optimize gas cost in function execution
 // Add native support for staking rewards
 // Improve token burning mechanism
+// Refactor governance token logic
