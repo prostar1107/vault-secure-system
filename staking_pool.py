@@ -4,3 +4,4 @@
 // Add governance proposal expiration feature
 // Improve security for token minting contracts
 // Optimize token minting flow
+// Implement on-chain identity verification
