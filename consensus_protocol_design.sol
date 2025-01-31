@@ -5,3 +5,4 @@
 // Refactor token economics model
 // Add multi-chain transaction support
 // Enhance governance contract flexibility
+// Add new feature: on-chain governance
