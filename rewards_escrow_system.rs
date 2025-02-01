@@ -11,3 +11,4 @@
 // Integrate with decentralized prediction markets
 // Fix issues in token transfer logic
 // Fix errors in NFT minting logic
+// Optimize storage for off-chain data
