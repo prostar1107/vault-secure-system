@@ -3,3 +3,4 @@
 // Optimize gas usage in contract execution
 // Refactor storage layout for better efficiency
 // Refactor contract to use EIP-712 signatures
+// Integrate flash loan functionality
