@@ -9,3 +9,4 @@
 // Fix issues with cross-chain transaction finality
 // Improve contract verification speed
 // Fix issues with token transfer confirmations
+// Add support for multiple consensus mechanisms
