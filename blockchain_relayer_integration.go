@@ -6,3 +6,4 @@
 // Fix errors in NFT minting logic
 // Implement on-chain identity verification
 // Refactor contract to use EIP-712 signatures
+// Add decentralized contract upgradeability
