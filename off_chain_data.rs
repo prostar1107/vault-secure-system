@@ -6,3 +6,4 @@
 // Improve scalability for smart contract platforms
 // Improve error handling in transaction flow
 // Fix edge case in unstaking logic
+// Fix issue in ERC-20 token transfers
