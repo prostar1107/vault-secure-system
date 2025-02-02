@@ -6,3 +6,4 @@
 // Add support for decentralized credit scoring
 // Bugfix: incorrect reward calculation
 // Fix deserialization bug in Haskell code
+// Update smart contract tests
