@@ -5,3 +5,4 @@
 // Enhance governance contract flexibility
 // Fix errors in contract interaction with wallets
 // Enhance gas fee management
+// Fix overflow bug in token calculation
