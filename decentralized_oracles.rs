@@ -5,3 +5,4 @@
 // Optimize decentralized oracle performance
 // Refactor staking logic
 // Enhance smart contract extensibility
+// Enhance logging for better debugging
