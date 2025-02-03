@@ -9,3 +9,4 @@
 // Refactor validator reward system
 // Add support for ERC-1155 tokens
 // Refactor governance token logic
+// Improve transaction batching efficiency
