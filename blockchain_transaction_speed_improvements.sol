@@ -6,3 +6,4 @@
 // Fix bugs in decentralized exchange routing
 // Add non-fungible token (NFT) support
 // Enhance test coverage for Rust module
+// Add support for multi-signature wallet contracts
