@@ -10,3 +10,4 @@
 // Optimize multi-chain interaction
 // Add support for decentralized insurance protocols
 // Fix compatibility with MetaMask
+// Improve token burning mechanism
