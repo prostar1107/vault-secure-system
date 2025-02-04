@@ -8,3 +8,4 @@
 // Bugfix: incorrect reward calculation
 // Add governance proposal expiration feature
 // Add support for yield farming rewards
+// Enhance smart contract upgradeability
