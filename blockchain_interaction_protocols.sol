@@ -5,3 +5,4 @@
 // Enhance developer documentation
 // Enhance smart contract state changes monitoring
 // Enhance smart contract compatibility
+// Update testing framework for Solidity
