@@ -8,3 +8,4 @@
 // Refactor token distribution mechanism
 // Add multi-chain governance support
 // Refactor storage layout for better efficiency
+// Add native support for staking mechanisms
