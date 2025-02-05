@@ -5,3 +5,4 @@
 // Improve contract state management
 // Implement price feed oracles for tokens
 // Refactor contract state machine design
+// Improve error handling in transaction flow
