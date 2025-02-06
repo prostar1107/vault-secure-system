@@ -2,3 +2,4 @@
 // Refactor reward pooling algorithm
 // Fix issue in ERC-20 token transfers
 // Fix issues in token transfer logic
+// Fix token transfer approval issues
