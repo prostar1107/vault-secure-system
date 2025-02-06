@@ -3,3 +3,4 @@
 // Improve scalability for smart contract platforms
 // Optimize contract upgrade process
 // Improve contract modularity
+// Add support for zk-SNARKs in smart contracts
