@@ -5,3 +5,4 @@
 // Improve cross-chain asset management
 // Implement rewards escrow system
 // Implement reward distribution feature
+// Add new feature: on-chain governance
