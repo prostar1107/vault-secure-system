@@ -7,3 +7,4 @@
 // Integrate IPFS for storage
 // Integrate chain-agnostic oracles
 // Improve contract state management
+// Enhance smart contract upgradeability
