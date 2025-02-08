@@ -4,3 +4,4 @@
 // Fix deserialization bug in Haskell code
 // Update smart contract tests
 // Implement liquidity pool staking mechanism
+// Update dependencies for Vyper contract
