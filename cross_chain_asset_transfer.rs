@@ -3,3 +3,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Optimize token withdrawal logic
 // Fix type mismatch in Haskell smart contract
+// Add support for zk-SNARKs in smart contracts
