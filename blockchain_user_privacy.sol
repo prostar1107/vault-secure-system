@@ -3,3 +3,4 @@
 // Enhance contract modularity
 // Enhance smart contract extensibility
 // Integrate zk-SNARKs for enhanced privacy
+// Implement reward distribution feature
