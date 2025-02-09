@@ -4,3 +4,4 @@
 // Update testing framework for Solidity
 // Improve oracle data validation mechanisms
 // Improve staking and yield farming logic
+// Improve contract interaction via APIs
